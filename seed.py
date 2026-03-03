@@ -48,11 +48,34 @@ def self_mutate():
     if "# AUTO-EVOLVED" not in code:
         code += new_cycle
     else:
-        code = code.rsplit("
-
-
-
-
-# AUTO-EVOLVED 2026-03-02T19:31:10.180001
-log_emergence('New evolution cycle spawned', 'SUCCESS')
-for d in list(TENTACLES.keys()): evolve_tentacle(d)
+        code = code.rsplit("# AUTO-EVOLVED", 1)[0] + new_cycle
+    file_path.write_text(code)
+    log_emergence("Self-mutated source + backup created", "SUCCESS")
+if __name__ == "__main__":
+    try:
+        parser = argparse.ArgumentParser()
+        parser.add_argument("--evolve", action="store_true")
+        parser.add_argument("--push", action="store_true")
+        parser.add_argument("--cycles", type=int, default=5)
+        args = parser.parse_args()
+        cprint(f"\n🌌 RECURSIVE SELF-IMPROVING SEED v{VERSION}", Colors.CYAN)
+        if args.evolve:
+            for i in range(1, args.cycles + 1):
+                cprint(f"🔄 Cycle {i}/{args.cycles}", Colors.YELLOW)
+                for domain in TENTACLES:
+                    evolve_tentacle(domain)
+                self_mutate()
+            cprint("\n✅ Evolution complete.", Colors.GREEN)
+            if args.push:
+                try:
+                    subprocess.run(["git", "add", "."], check=True, capture_output=True)
+                    subprocess.run(["git", "commit", "-m", f"Auto-evolution v{VERSION}"], check=True, capture_output=True)
+                    subprocess.run(["git", "push"], check=True, capture_output=True)
+                    cprint("🚀 Pushed to GitHub", Colors.YELLOW)
+                except:
+                    cprint("Push skipped (saved locally)", Colors.YELLOW)
+        else:
+            cprint("Usage: python3 seed.py --evolve --push --cycles 10", Colors.YELLOW)
+    except Exception as e:
+        cprint(f"Error: {e}", Colors.RED)
+        sys.exit(1)
