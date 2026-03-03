@@ -1,0 +1,2 @@
+pyphi @ git+https://github.com/NullLabTests/pyphi.git
+numpy
