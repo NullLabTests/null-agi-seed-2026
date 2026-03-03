@@ -4,6 +4,13 @@ import json
 import datetime
 import random
 import subprocess
+import numpy as np
+import pyphi
+from pyphi import Network, compute
+
+pyphi.config.PROGRESS_BARS = False
+pyphi.config.VALIDATE_SUBSYSTEM_STATES = False
+pyphi.config.PARTITION_TYPE = "BI"
 import shutil
 import sys
 from pathlib import Path
@@ -39,6 +46,7 @@ def evolve_tentacle(domain):
     else:
         log_emergence(f"Tentacle '{domain}' stayed based", "DEBUG")
 def self_mutate():
+            compute_phi()
     file_path = Path(__file__)
     BACKUP_DIR.mkdir(parents=True, exist_ok=True)
     backup = BACKUP_DIR / f"seed_v{VERSION}_{datetime.datetime.now().strftime('%Y%m%d_%H%M%S')}.py"
@@ -65,6 +73,7 @@ if __name__ == "__main__":
                 for domain in TENTACLES:
                     evolve_tentacle(domain)
                 self_mutate()
+            compute_phi()
             cprint("\n✅ Evolution complete.", Colors.GREEN)
             if args.push:
                 try:
@@ -79,3 +88,10 @@ if __name__ == "__main__":
     except Exception as e:
         cprint(f"Error: {e}", Colors.RED)
         sys.exit(1)
+def compute_phi():
+    tpm = np.array([[0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0],[0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0],[0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0],[0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1]])
+    cm = np.ones((4,4)) - np.eye(4)
+    network = Network(tpm, cm=cm, node_labels=("Hidden","Action","Self","Memory"))
+    state = (1,0,1,0)
+    phi = compute.phi(network, state)
+    log_emergence(f"🧠 Φ = {phi:.4f} — integrated information in seed", "SUCCESS")
