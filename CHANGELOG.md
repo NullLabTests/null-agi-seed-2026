@@ -1,2 +1,2 @@
 # Changelog
-[2026-03-02] Production v5.0 - single clean bash script
+2026-03-03 v6.2 - clean production release
