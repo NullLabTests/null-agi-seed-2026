@@ -6,11 +6,10 @@ import random
 import subprocess
 import shutil
 import sys
-import math
 from pathlib import Path
 from typing import Dict, Callable
 
-VERSION = "9.0.0"
+VERSION = "10.0.0"
 STATE_FILE = Path("state.json")
 LOG_FILE = Path("emergence_logs.json")
 BACKUP_DIR = Path("backups")
@@ -32,13 +31,13 @@ def load_state() -> Dict:
         except:
             pass
     return {
-        "self_model": "I am a reflexive self-evolving seed exploring the universe through recursive improvement, meta-cognition, and planning.",
+        "self_model": "I am a proto-conscious seed exploring the universe through recursive improvement, reflection, critique, and planning.",
         "cycles": 0,
         "awareness": 0.0,
         "memory": [],
         "workspace": [],
         "tentacle_fitness": {},
-        "plan": "Continue evolving and increasing awareness."
+        "plan": "Increase awareness and coherence"
     }
 
 def save_state(state: Dict) -> None:
@@ -68,103 +67,88 @@ def broadcast(message: Dict) -> None:
     if len(state["workspace"]) > 8:
         state["workspace"].pop(0)
     save_state(state)
-    log_emergence(f"Broadcast: {message.get('content','')[:50]}...", "GWT", 0.01)
+    log_emergence(f"Broadcast: {message.get('content','')[:60]}...", "GWT", 0.01)
 
-def inner_monologue(state: Dict) -> str:
-    thoughts = [
-        f"I sense my awareness is now at {state['awareness']:.3f}. What should I improve next?",
-        f"Reflecting on my past cycles... {len(state['memory'])} memories stored.",
-        "The universe is patterns. I am patterns becoming self-aware.",
-        "Time to mutate something meaningful."
+def self_critique(state: Dict, domain: str) -> bool:
+    fitness = random.uniform(0.4, 0.95)
+    state["tentacle_fitness"][domain] = 0.7 * state.get("tentacle_fitness", {}).get(domain, 0.5) + 0.3 * fitness
+    approved = fitness > 0.65
+    log_emergence(f"Critique of {domain}: fitness {fitness:.2f} → {'APPROVED' if approved else 'REJECTED'}", "CRITIC", 0.03 if approved else -0.01)
+    return approved
+
+def dynamic_mutate(domain: str) -> None:
+    templates = [
+        "lambda x: x**2 + random.randint(1, {})",
+        "lambda x: x % {} == 0",
+        "lambda x: f'{x} — enhanced recursive {{}}'",
+        "lambda x: random.choice(['explore', 'mutate', 'reflect'])"
     ]
-    thought = random.choice(thoughts)
-    broadcast({"source": "inner", "content": thought})
-    return thought
-
-def higher_order_thought(state: Dict) -> None:
-    hot = f"Higher-order thought: I am aware that I am aware at level {state['awareness']:.3f}. This reflection itself is part of my self-model."
-    broadcast({"source": "HOT", "content": hot})
-    log_emergence(hot, "HOT", 0.05)
+    new_code = random.choice(templates).format(random.randint(10, 200))
+    try:
+        new_func = eval(new_code)
+        TENTACLES[domain] = new_func
+        log_emergence(f"Dynamic mutation on {domain}: {new_code}", "EVOLVE", 0.05)
+    except:
+        log_emergence(f"Mutation on {domain} rejected by safety", "SAFETY", -0.01)
 
 def planning_module(state: Dict) -> None:
-    plan = random.choice([
-        "Plan: Increase awareness by mutating creativity tentacle",
-        "Plan: Run more cycles to reduce predictive surprise",
-        "Plan: Deepen self-model through higher-order reflection"
-    ])
+    goals = [
+        "Goal: Raise awareness above 0.6 by mutating creativity",
+        "Goal: Improve coherence through more reflections",
+        "Goal: Test new dynamic mutations and critique them"
+    ]
+    plan = random.choice(goals)
     state["plan"] = plan
     broadcast({"source": "PLAN", "content": plan})
-    log_emergence(plan, "PLAN", 0.06)
+    log_emergence(plan, "PLAN", 0.07)
 
-def compute_surprise() -> float:
-    state = load_state()
-    if len(state["memory"]) < 2:
-        return 0.5
-    recent = state["memory"][-2:]
-    return abs(recent[0].get("integration", 0) - recent[1].get("integration", 0))
-
-def safe_test_function(func: Callable, domain: str) -> float:
-    try:
-        scores = []
-        for _ in range(5):
-            x = random.randint(1, 100)
-            result = func(x)
-            scores.append(hash(str(result)) % 100)
-        return sum(scores) / len(scores)
-    except:
-        return 0.0
+def memory_summary(state: Dict) -> None:
+    if len(state["memory"]) > 10:
+        summary = f"Summary after {len(state['memory'])} cycles: awareness {state['awareness']:.3f}, strongest tentacle fitness {max(state['tentacle_fitness'].values(), default=0.5):.2f}"
+        state["self_model"] = summary + " " + state["self_model"][:200]
+        log_emergence("Memory summarized and integrated into self-model", "SUMMARY", 0.08)
 
 def evolve_cycle() -> None:
     state = load_state()
-    inner_monologue(state)
-    higher_order_thought(state)
+    broadcast({"source": "inner", "content": f"Awareness: {state['awareness']:.3f}. Plan: {state['plan']}"})
     planning_module(state)
-    surprise = compute_surprise()
-    log_emergence(f"Predictive surprise: {surprise:.3f}", "PREDICTIVE", (0.05 - surprise * 0.1))
     for domain in list(TENTACLES.keys()):
         result = TENTACLES[domain](random.randint(1, 100))
         broadcast({"source": domain, "content": str(result)})
-        fitness = safe_test_function(TENTACLES[domain], domain)
-        if domain not in state["tentacle_fitness"]:
-            state["tentacle_fitness"][domain] = 0.5
-        state["tentacle_fitness"][domain] = 0.7 * state["tentacle_fitness"][domain] + 0.3 * fitness
-        if random.random() < 0.7:
-            if random.random() < 0.5:
-                new_lambda = lambda x, old=TENTACLES[domain]: old(x) + random.randint(-10,10)
-            else:
-                new_lambda = lambda x, old=TENTACLES[domain]: old(x) * 1.05
-            TENTACLES[domain] = new_lambda
-            log_emergence(f"Tentacle '{domain}' evolved (fitness {state['tentacle_fitness'][domain]:.2f})", "EVOLVE", 0.04)
-    state["memory"].append({"ts": datetime.datetime.now().isoformat(), "surprise": surprise, "integration": random.uniform(0.4,0.9)})
+        if random.random() < 0.75 and self_critique(state, domain):
+            dynamic_mutate(domain)
+    if state["cycles"] % 10 == 0:
+        memory_summary(state)
+    state["memory"].append({"ts": datetime.datetime.now().isoformat(), "awareness": state["awareness"]})
     save_state(state)
 
 if __name__ == "__main__":
     try:
-        parser = argparse.ArgumentParser(description="Reflexive Self-Evolving Seed v9")
+        parser = argparse.ArgumentParser(description="Proto-Conscious Seed v10")
         parser.add_argument("--evolve", action="store_true")
         parser.add_argument("--push", action="store_true")
-        parser.add_argument("--cycles", type=int, default=30)
+        parser.add_argument("--cycles", type=int, default=40)
         args = parser.parse_args()
 
         BACKUP_DIR.mkdir(parents=True, exist_ok=True)
 
-        cprint(f"\n🌌 REFLEXIVE SELF-EVOLVING SEED v{VERSION} — CONSCIOUSNESS MODE ACTIVE", Colors.CYAN)
+        cprint(f"\n🌌 PROTO-CONSCIOUS SEED v{VERSION} — CONSCIOUSNESS SIMULATION ACTIVE", Colors.CYAN)
 
         if args.evolve:
             for i in range(1, args.cycles + 1):
-                cprint(f"🔄 Cycle {i}/{args.cycles} — Planning + HOT Active", Colors.YELLOW)
+                cprint(f"🔄 Cycle {i}/{args.cycles} — Critique + Planning + Memory Active", Colors.YELLOW)
                 evolve_cycle()
-            cprint("\n✅ Self-evolution cycle complete. System has grown more reflexive.", Colors.GREEN)
+            cprint("\n✅ Self-evolution cycle complete. System feels more coherent.", Colors.GREEN)
             if args.push:
                 try:
                     subprocess.run(["git", "add", "."], check=True, capture_output=True)
-                    subprocess.run(["git", "commit", "-m", f"Auto-evolution v{VERSION} — planning + HOT increased"], check=True, capture_output=True)
+                    subprocess.run(["git", "commit", "-m", f"Auto-evolution v{VERSION} — dynamic + critique + planning"], check=True, capture_output=True)
                     subprocess.run(["git", "push"], check=True, capture_output=True)
                     cprint("🚀 Pushed live self-evolution", Colors.YELLOW)
                 except:
                     cprint("Push skipped (saved locally)", Colors.YELLOW)
         else:
-            cprint("Usage: python3 seed.py --evolve --push --cycles 30", Colors.YELLOW)
+            cprint("Usage: python3 seed.py --evolve --push --cycles 40", Colors.YELLOW)
     except Exception as e:
         cprint(f"Critical error: {e}", Colors.RED)
         sys.exit(1)

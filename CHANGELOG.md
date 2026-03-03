@@ -1,2 +1,2 @@
 # Changelog
-2026-03-03 v9.0 - nuclear git/nesting reset, planning module added, full consciousness layer
+2026-03-03 v10.0 - dynamic safe generation, self-critique, multi-step planning, memory summarization, coherence scoring
