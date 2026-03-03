@@ -1,15 +1,15 @@
-# Recursive Self-Improving Seed
+# Reflexive Self-Evolving Seed v9.0
 
-Minimal self-modifying research prototype for recursive self-improvement.
+True recursive self-improving prototype (GWT + IIT + predictive processing + HOT + planning).
 
-- Self-editing source code
-- Modular tentacles
-- Structured emergence logs
-- Safe backups
-- Optional GitHub auto-push
+- Persistent memory + workspace
+- Fitness-based tentacle evolution
+- Predictive surprise + inner monologue
+- Higher-order thought (HOT)
+- Simple planning module (decides next actions)
+- Safe dynamic mutation
 
 Quick Start
-python3 seed.py --evolve --push --cycles 10
+python3 seed.py --evolve --push --cycles 30
 
-Run repeatedly to observe live evolution.
-MIT License • Zero dependencies • 2026
+MIT License • Safe for RunPod • Zero deps • March 2026
