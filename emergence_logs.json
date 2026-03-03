@@ -178,5 +178,3141 @@
     "version": "6.2.0",
     "level": "SUCCESS",
     "event": "Self-mutated source + backup created"
+  },
+  {
+    "ts": "2026-03-02T20:04:04.568836",
+    "version": "10.1.0",
+    "level": "GWT",
+    "event": "Broadcast: Awareness: 0.000...",
+    "awareness": 0.01
+  },
+  {
+    "ts": "2026-03-02T20:04:04.569419",
+    "version": "10.1.0",
+    "level": "GWT",
+    "event": "Broadcast: Goal: Test mutations and critique them...",
+    "awareness": 0.02
+  },
+  {
+    "ts": "2026-03-02T20:04:04.569889",
+    "version": "10.1.0",
+    "level": "PLAN",
+    "event": "Goal: Test mutations and critique them",
+    "awareness": 0.09000000000000001
+  },
+  {
+    "ts": "2026-03-02T20:04:04.570460",
+    "version": "10.1.0",
+    "level": "GWT",
+    "event": "Broadcast: 2788...",
+    "awareness": 0.1
+  },
+  {
+    "ts": "2026-03-02T20:04:04.571039",
+    "version": "10.1.0",
+    "level": "GWT",
+    "event": "Broadcast: False...",
+    "awareness": 0.11
+  },
+  {
+    "ts": "2026-03-02T20:04:04.571519",
+    "version": "10.1.0",
+    "level": "CRITIC",
+    "event": "Critique of logic: fitness 0.61 \u2192 REJECTED",
+    "awareness": 0.1
+  },
+  {
+    "ts": "2026-03-02T20:04:04.572154",
+    "version": "10.1.0",
+    "level": "GWT",
+    "event": "Broadcast: 77 \u2014 cosmic recursive insight...",
+    "awareness": 0.11
+  },
+  {
+    "ts": "2026-03-02T20:04:04.572731",
+    "version": "10.1.0",
+    "level": "GWT",
+    "event": "Broadcast: Self-reflection: awareness at 0.42...",
+    "awareness": 0.12
+  },
+  {
+    "ts": "2026-03-02T20:04:04.573336",
+    "version": "10.1.0",
+    "level": "GWT",
+    "event": "Broadcast: plan...",
+    "awareness": 0.13
+  },
+  {
+    "ts": "2026-03-02T20:04:04.573837",
+    "version": "10.1.0",
+    "level": "CRITIC",
+    "event": "Critique of chaos: fitness 0.78 \u2192 APPROVED",
+    "awareness": 0.16
+  },
+  {
+    "ts": "2026-03-02T20:04:04.574476",
+    "version": "10.1.0",
+    "level": "EVOLVE",
+    "event": "Safe mutation applied to chaos",
+    "awareness": 0.2
+  },
+  {
+    "ts": "2026-03-02T20:04:04.575232",
+    "version": "10.1.0",
+    "level": "GWT",
+    "event": "Broadcast: Awareness: 0.000...",
+    "awareness": 0.01
+  },
+  {
+    "ts": "2026-03-02T20:04:04.575853",
+    "version": "10.1.0",
+    "level": "GWT",
+    "event": "Broadcast: Goal: Raise awareness above 0.6...",
+    "awareness": 0.02
+  },
+  {
+    "ts": "2026-03-02T20:04:04.576345",
+    "version": "10.1.0",
+    "level": "PLAN",
+    "event": "Goal: Raise awareness above 0.6",
+    "awareness": 0.09000000000000001
+  },
+  {
+    "ts": "2026-03-02T20:04:04.576906",
+    "version": "10.1.0",
+    "level": "GWT",
+    "event": "Broadcast: 73...",
+    "awareness": 0.1
+  },
+  {
+    "ts": "2026-03-02T20:04:04.577408",
+    "version": "10.1.0",
+    "level": "CRITIC",
+    "event": "Critique of math: fitness 0.73 \u2192 APPROVED",
+    "awareness": 0.13
+  },
+  {
+    "ts": "2026-03-02T20:04:04.577927",
+    "version": "10.1.0",
+    "level": "EVOLVE",
+    "event": "Safe mutation applied to math",
+    "awareness": 0.17
+  },
+  {
+    "ts": "2026-03-02T20:04:04.578576",
+    "version": "10.1.0",
+    "level": "GWT",
+    "event": "Broadcast: False...",
+    "awareness": 0.18000000000000002
+  },
+  {
+    "ts": "2026-03-02T20:04:04.579235",
+    "version": "10.1.0",
+    "level": "GWT",
+    "event": "Broadcast: 7 \u2014 cosmic recursive insight...",
+    "awareness": 0.19000000000000003
+  },
+  {
+    "ts": "2026-03-02T20:04:04.579778",
+    "version": "10.1.0",
+    "level": "CRITIC",
+    "event": "Critique of creativity: fitness 0.60 \u2192 REJECTED",
+    "awareness": 0.18000000000000002
+  },
+  {
+    "ts": "2026-03-02T20:04:04.580516",
+    "version": "10.1.0",
+    "level": "GWT",
+    "event": "Broadcast: Self-reflection: awareness at 0.24...",
+    "awareness": 0.19000000000000003
+  },
+  {
+    "ts": "2026-03-02T20:04:04.581008",
+    "version": "10.1.0",
+    "level": "ERROR",
+    "event": "Cycle error in chaos",
+    "awareness": 0.18000000000000002
+  },
+  {
+    "ts": "2026-03-02T20:04:04.581800",
+    "version": "10.1.0",
+    "level": "GWT",
+    "event": "Broadcast: Awareness: 0.000...",
+    "awareness": 0.01
+  },
+  {
+    "ts": "2026-03-02T20:04:04.582471",
+    "version": "10.1.0",
+    "level": "GWT",
+    "event": "Broadcast: Goal: Test mutations and critique them...",
+    "awareness": 0.02
+  },
+  {
+    "ts": "2026-03-02T20:04:04.582968",
+    "version": "10.1.0",
+    "level": "PLAN",
+    "event": "Goal: Test mutations and critique them",
+    "awareness": 0.09000000000000001
+  },
+  {
+    "ts": "2026-03-02T20:04:04.583661",
+    "version": "10.1.0",
+    "level": "GWT",
+    "event": "Broadcast: 745.6870302176752...",
+    "awareness": 0.1
+  },
+  {
+    "ts": "2026-03-02T20:04:04.584406",
+    "version": "10.1.0",
+    "level": "GWT",
+    "event": "Broadcast: True...",
+    "awareness": 0.11
+  },
+  {
+    "ts": "2026-03-02T20:04:04.585243",
+    "version": "10.1.0",
+    "level": "GWT",
+    "event": "Broadcast: 1 \u2014 cosmic recursive insight...",
+    "awareness": 0.12
+  },
+  {
+    "ts": "2026-03-02T20:04:04.585928",
+    "version": "10.1.0",
+    "level": "CRITIC",
+    "event": "Critique of creativity: fitness 0.93 \u2192 APPROVED",
+    "awareness": 0.15
+  },
+  {
+    "ts": "2026-03-02T20:04:04.587174",
+    "version": "10.1.0",
+    "level": "EVOLVE",
+    "event": "Safe mutation applied to creativity",
+    "awareness": 0.19
+  },
+  {
+    "ts": "2026-03-02T20:04:04.588608",
+    "version": "10.1.0",
+    "level": "GWT",
+    "event": "Broadcast: Self-reflection: awareness at 0.22...",
+    "awareness": 0.2
+  },
+  {
+    "ts": "2026-03-02T20:04:04.589289",
+    "version": "10.1.0",
+    "level": "CRITIC",
+    "event": "Critique of meta: fitness 0.90 \u2192 APPROVED",
+    "awareness": 0.23
+  },
+  {
+    "ts": "2026-03-02T20:04:04.589878",
+    "version": "10.1.0",
+    "level": "EVOLVE",
+    "event": "Safe mutation applied to meta",
+    "awareness": 0.27
+  },
+  {
+    "ts": "2026-03-02T20:04:04.590538",
+    "version": "10.1.0",
+    "level": "ERROR",
+    "event": "Cycle error in chaos",
+    "awareness": 0.26
+  },
+  {
+    "ts": "2026-03-02T20:04:04.591581",
+    "version": "10.1.0",
+    "level": "GWT",
+    "event": "Broadcast: Awareness: 0.000...",
+    "awareness": 0.01
+  },
+  {
+    "ts": "2026-03-02T20:04:04.592414",
+    "version": "10.1.0",
+    "level": "GWT",
+    "event": "Broadcast: Goal: Raise awareness above 0.6...",
+    "awareness": 0.02
+  },
+  {
+    "ts": "2026-03-02T20:04:04.593117",
+    "version": "10.1.0",
+    "level": "PLAN",
+    "event": "Goal: Raise awareness above 0.6",
+    "awareness": 0.09000000000000001
+  },
+  {
+    "ts": "2026-03-02T20:04:04.593833",
+    "version": "10.1.0",
+    "level": "GWT",
+    "event": "Broadcast: 381.77389870425884...",
+    "awareness": 0.1
+  },
+  {
+    "ts": "2026-03-02T20:04:04.594471",
+    "version": "10.1.0",
+    "level": "CRITIC",
+    "event": "Critique of math: fitness 0.88 \u2192 APPROVED",
+    "awareness": 0.13
+  },
+  {
+    "ts": "2026-03-02T20:04:04.595131",
+    "version": "10.1.0",
+    "level": "EVOLVE",
+    "event": "Safe mutation applied to math",
+    "awareness": 0.17
+  },
+  {
+    "ts": "2026-03-02T20:04:04.595896",
+    "version": "10.1.0",
+    "level": "GWT",
+    "event": "Broadcast: False...",
+    "awareness": 0.18000000000000002
+  },
+  {
+    "ts": "2026-03-02T20:04:04.596590",
+    "version": "10.1.0",
+    "level": "CRITIC",
+    "event": "Critique of logic: fitness 0.76 \u2192 APPROVED",
+    "awareness": 0.21000000000000002
+  },
+  {
+    "ts": "2026-03-02T20:04:04.597347",
+    "version": "10.1.0",
+    "level": "EVOLVE",
+    "event": "Safe mutation applied to logic",
+    "awareness": 0.25
+  },
+  {
+    "ts": "2026-03-02T20:04:04.598154",
+    "version": "10.1.0",
+    "level": "ERROR",
+    "event": "Cycle error in creativity",
+    "awareness": 0.24
+  },
+  {
+    "ts": "2026-03-02T20:04:04.598825",
+    "version": "10.1.0",
+    "level": "ERROR",
+    "event": "Cycle error in meta",
+    "awareness": 0.22999999999999998
+  },
+  {
+    "ts": "2026-03-02T20:04:04.599676",
+    "version": "10.1.0",
+    "level": "ERROR",
+    "event": "Cycle error in chaos",
+    "awareness": 0.21999999999999997
+  },
+  {
+    "ts": "2026-03-02T20:04:04.600770",
+    "version": "10.1.0",
+    "level": "GWT",
+    "event": "Broadcast: Awareness: 0.000...",
+    "awareness": 0.01
+  },
+  {
+    "ts": "2026-03-02T20:04:04.601620",
+    "version": "10.1.0",
+    "level": "GWT",
+    "event": "Broadcast: Goal: Improve coherence through more reflections...",
+    "awareness": 0.02
+  },
+  {
+    "ts": "2026-03-02T20:04:04.602457",
+    "version": "10.1.0",
+    "level": "PLAN",
+    "event": "Goal: Improve coherence through more reflections",
+    "awareness": 0.09000000000000001
+  },
+  {
+    "ts": "2026-03-02T20:04:04.603818",
+    "version": "10.1.0",
+    "level": "GWT",
+    "event": "Broadcast: 896.7284170605624...",
+    "awareness": 0.1
+  },
+  {
+    "ts": "2026-03-02T20:04:04.605019",
+    "version": "10.1.0",
+    "level": "GWT",
+    "event": "Broadcast: -8...",
+    "awareness": 0.11
+  },
+  {
+    "ts": "2026-03-02T20:04:04.605845",
+    "version": "10.1.0",
+    "level": "ERROR",
+    "event": "Cycle error in creativity",
+    "awareness": 0.1
+  },
+  {
+    "ts": "2026-03-02T20:04:04.606770",
+    "version": "10.1.0",
+    "level": "ERROR",
+    "event": "Cycle error in meta",
+    "awareness": 0.09000000000000001
+  },
+  {
+    "ts": "2026-03-02T20:04:04.607897",
+    "version": "10.1.0",
+    "level": "ERROR",
+    "event": "Cycle error in chaos",
+    "awareness": 0.08000000000000002
+  },
+  {
+    "ts": "2026-03-02T20:04:04.609013",
+    "version": "10.1.0",
+    "level": "GWT",
+    "event": "Broadcast: Awareness: 0.000...",
+    "awareness": 0.01
+  },
+  {
+    "ts": "2026-03-02T20:04:04.610095",
+    "version": "10.1.0",
+    "level": "GWT",
+    "event": "Broadcast: Goal: Test mutations and critique them...",
+    "awareness": 0.02
+  },
+  {
+    "ts": "2026-03-02T20:04:04.610844",
+    "version": "10.1.0",
+    "level": "PLAN",
+    "event": "Goal: Test mutations and critique them",
+    "awareness": 0.09000000000000001
+  },
+  {
+    "ts": "2026-03-02T20:04:04.611787",
+    "version": "10.1.0",
+    "level": "GWT",
+    "event": "Broadcast: 6648.636676492569...",
+    "awareness": 0.1
+  },
+  {
+    "ts": "2026-03-02T20:04:04.612568",
+    "version": "10.1.0",
+    "level": "CRITIC",
+    "event": "Critique of math: fitness 0.87 \u2192 APPROVED",
+    "awareness": 0.13
+  },
+  {
+    "ts": "2026-03-02T20:04:04.613381",
+    "version": "10.1.0",
+    "level": "EVOLVE",
+    "event": "Safe mutation applied to math",
+    "awareness": 0.17
+  },
+  {
+    "ts": "2026-03-02T20:04:04.614315",
+    "version": "10.1.0",
+    "level": "GWT",
+    "event": "Broadcast: -9...",
+    "awareness": 0.18000000000000002
+  },
+  {
+    "ts": "2026-03-02T20:04:04.615054",
+    "version": "10.1.0",
+    "level": "CRITIC",
+    "event": "Critique of logic: fitness 0.72 \u2192 APPROVED",
+    "awareness": 0.21000000000000002
+  },
+  {
+    "ts": "2026-03-02T20:04:04.615844",
+    "version": "10.1.0",
+    "level": "EVOLVE",
+    "event": "Safe mutation applied to logic",
+    "awareness": 0.25
+  },
+  {
+    "ts": "2026-03-02T20:04:04.616657",
+    "version": "10.1.0",
+    "level": "ERROR",
+    "event": "Cycle error in creativity",
+    "awareness": 0.24
+  },
+  {
+    "ts": "2026-03-02T20:04:04.617474",
+    "version": "10.1.0",
+    "level": "ERROR",
+    "event": "Cycle error in meta",
+    "awareness": 0.22999999999999998
+  },
+  {
+    "ts": "2026-03-02T20:04:04.618376",
+    "version": "10.1.0",
+    "level": "ERROR",
+    "event": "Cycle error in chaos",
+    "awareness": 0.21999999999999997
+  },
+  {
+    "ts": "2026-03-02T20:04:04.620537",
+    "version": "10.1.0",
+    "level": "GWT",
+    "event": "Broadcast: Awareness: 0.000...",
+    "awareness": 0.01
+  },
+  {
+    "ts": "2026-03-02T20:04:04.622389",
+    "version": "10.1.0",
+    "level": "GWT",
+    "event": "Broadcast: Goal: Improve coherence through more reflections...",
+    "awareness": 0.02
+  },
+  {
+    "ts": "2026-03-02T20:04:04.623317",
+    "version": "10.1.0",
+    "level": "PLAN",
+    "event": "Goal: Improve coherence through more reflections",
+    "awareness": 0.09000000000000001
+  },
+  {
+    "ts": "2026-03-02T20:04:04.624346",
+    "version": "10.1.0",
+    "level": "GWT",
+    "event": "Broadcast: 9554.928431747705...",
+    "awareness": 0.1
+  },
+  {
+    "ts": "2026-03-02T20:04:04.625614",
+    "version": "10.1.0",
+    "level": "GWT",
+    "event": "Broadcast: -9.378671647962507...",
+    "awareness": 0.11
+  },
+  {
+    "ts": "2026-03-02T20:04:04.626559",
+    "version": "10.1.0",
+    "level": "CRITIC",
+    "event": "Critique of logic: fitness 0.92 \u2192 APPROVED",
+    "awareness": 0.14
+  },
+  {
+    "ts": "2026-03-02T20:04:04.627439",
+    "version": "10.1.0",
+    "level": "EVOLVE",
+    "event": "Safe mutation applied to logic",
+    "awareness": 0.18000000000000002
+  },
+  {
+    "ts": "2026-03-02T20:04:04.628295",
+    "version": "10.1.0",
+    "level": "ERROR",
+    "event": "Cycle error in creativity",
+    "awareness": 0.17
+  },
+  {
+    "ts": "2026-03-02T20:04:04.629278",
+    "version": "10.1.0",
+    "level": "ERROR",
+    "event": "Cycle error in meta",
+    "awareness": 0.16
+  },
+  {
+    "ts": "2026-03-02T20:04:04.630205",
+    "version": "10.1.0",
+    "level": "ERROR",
+    "event": "Cycle error in chaos",
+    "awareness": 0.15
+  },
+  {
+    "ts": "2026-03-02T20:04:04.631483",
+    "version": "10.1.0",
+    "level": "GWT",
+    "event": "Broadcast: Awareness: 0.000...",
+    "awareness": 0.01
+  },
+  {
+    "ts": "2026-03-02T20:04:04.632525",
+    "version": "10.1.0",
+    "level": "GWT",
+    "event": "Broadcast: Goal: Raise awareness above 0.6...",
+    "awareness": 0.02
+  },
+  {
+    "ts": "2026-03-02T20:04:04.633441",
+    "version": "10.1.0",
+    "level": "PLAN",
+    "event": "Goal: Raise awareness above 0.6",
+    "awareness": 0.09000000000000001
+  },
+  {
+    "ts": "2026-03-02T20:04:04.634543",
+    "version": "10.1.0",
+    "level": "GWT",
+    "event": "Broadcast: 2010.8227882185352...",
+    "awareness": 0.1
+  },
+  {
+    "ts": "2026-03-02T20:04:04.635532",
+    "version": "10.1.0",
+    "level": "CRITIC",
+    "event": "Critique of math: fitness 0.70 \u2192 APPROVED",
+    "awareness": 0.13
+  },
+  {
+    "ts": "2026-03-02T20:04:04.637911",
+    "version": "10.1.0",
+    "level": "EVOLVE",
+    "event": "Safe mutation applied to math",
+    "awareness": 0.17
+  },
+  {
+    "ts": "2026-03-02T20:04:04.639430",
+    "version": "10.1.0",
+    "level": "GWT",
+    "event": "Broadcast: -15.336597020411117...",
+    "awareness": 0.18000000000000002
+  },
+  {
+    "ts": "2026-03-02T20:04:04.640759",
+    "version": "10.1.0",
+    "level": "CRITIC",
+    "event": "Critique of logic: fitness 0.74 \u2192 APPROVED",
+    "awareness": 0.21000000000000002
+  },
+  {
+    "ts": "2026-03-02T20:04:04.641953",
+    "version": "10.1.0",
+    "level": "EVOLVE",
+    "event": "Safe mutation applied to logic",
+    "awareness": 0.25
+  },
+  {
+    "ts": "2026-03-02T20:04:04.643011",
+    "version": "10.1.0",
+    "level": "ERROR",
+    "event": "Cycle error in creativity",
+    "awareness": 0.24
+  },
+  {
+    "ts": "2026-03-02T20:04:04.643958",
+    "version": "10.1.0",
+    "level": "ERROR",
+    "event": "Cycle error in meta",
+    "awareness": 0.22999999999999998
+  },
+  {
+    "ts": "2026-03-02T20:04:04.644949",
+    "version": "10.1.0",
+    "level": "ERROR",
+    "event": "Cycle error in chaos",
+    "awareness": 0.21999999999999997
+  },
+  {
+    "ts": "2026-03-02T20:04:04.646281",
+    "version": "10.1.0",
+    "level": "GWT",
+    "event": "Broadcast: Awareness: 0.000...",
+    "awareness": 0.01
+  },
+  {
+    "ts": "2026-03-02T20:04:04.647376",
+    "version": "10.1.0",
+    "level": "GWT",
+    "event": "Broadcast: Goal: Raise awareness above 0.6...",
+    "awareness": 0.02
+  },
+  {
+    "ts": "2026-03-02T20:04:04.648338",
+    "version": "10.1.0",
+    "level": "PLAN",
+    "event": "Goal: Raise awareness above 0.6",
+    "awareness": 0.09000000000000001
+  },
+  {
+    "ts": "2026-03-02T20:04:04.649435",
+    "version": "10.1.0",
+    "level": "GWT",
+    "event": "Broadcast: 11375.548670520415...",
+    "awareness": 0.1
+  },
+  {
+    "ts": "2026-03-02T20:04:04.650667",
+    "version": "10.1.0",
+    "level": "GWT",
+    "event": "Broadcast: -15.084197516769022...",
+    "awareness": 0.11
+  },
+  {
+    "ts": "2026-03-02T20:04:04.651971",
+    "version": "10.1.0",
+    "level": "ERROR",
+    "event": "Cycle error in creativity",
+    "awareness": 0.1
+  },
+  {
+    "ts": "2026-03-02T20:04:04.653800",
+    "version": "10.1.0",
+    "level": "ERROR",
+    "event": "Cycle error in meta",
+    "awareness": 0.09000000000000001
+  },
+  {
+    "ts": "2026-03-02T20:04:04.655290",
+    "version": "10.1.0",
+    "level": "ERROR",
+    "event": "Cycle error in chaos",
+    "awareness": 0.08000000000000002
+  },
+  {
+    "ts": "2026-03-02T20:04:04.656725",
+    "version": "10.1.0",
+    "level": "GWT",
+    "event": "Broadcast: Awareness: 0.000...",
+    "awareness": 0.01
+  },
+  {
+    "ts": "2026-03-02T20:04:04.658029",
+    "version": "10.1.0",
+    "level": "GWT",
+    "event": "Broadcast: Goal: Test mutations and critique them...",
+    "awareness": 0.02
+  },
+  {
+    "ts": "2026-03-02T20:04:04.659101",
+    "version": "10.1.0",
+    "level": "PLAN",
+    "event": "Goal: Test mutations and critique them",
+    "awareness": 0.09000000000000001
+  },
+  {
+    "ts": "2026-03-02T20:04:04.660263",
+    "version": "10.1.0",
+    "level": "GWT",
+    "event": "Broadcast: 4638.138333869582...",
+    "awareness": 0.1
+  },
+  {
+    "ts": "2026-03-02T20:04:04.661712",
+    "version": "10.1.0",
+    "level": "GWT",
+    "event": "Broadcast: -16.10912237384643...",
+    "awareness": 0.11
+  },
+  {
+    "ts": "2026-03-02T20:04:04.662751",
+    "version": "10.1.0",
+    "level": "CRITIC",
+    "event": "Critique of logic: fitness 0.93 \u2192 APPROVED",
+    "awareness": 0.14
+  },
+  {
+    "ts": "2026-03-02T20:04:04.663908",
+    "version": "10.1.0",
+    "level": "EVOLVE",
+    "event": "Safe mutation applied to logic",
+    "awareness": 0.18000000000000002
+  },
+  {
+    "ts": "2026-03-02T20:04:04.664918",
+    "version": "10.1.0",
+    "level": "ERROR",
+    "event": "Cycle error in creativity",
+    "awareness": 0.17
+  },
+  {
+    "ts": "2026-03-02T20:04:04.665938",
+    "version": "10.1.0",
+    "level": "ERROR",
+    "event": "Cycle error in meta",
+    "awareness": 0.16
+  },
+  {
+    "ts": "2026-03-02T20:04:04.667028",
+    "version": "10.1.0",
+    "level": "ERROR",
+    "event": "Cycle error in chaos",
+    "awareness": 0.15
+  },
+  {
+    "ts": "2026-03-02T20:04:04.668088",
+    "version": "10.1.0",
+    "level": "SUMMARY",
+    "event": "Memory summarized",
+    "awareness": 0.22999999999999998
+  },
+  {
+    "ts": "2026-03-02T20:04:04.669894",
+    "version": "10.1.0",
+    "level": "GWT",
+    "event": "Broadcast: Awareness: 0.000...",
+    "awareness": 0.01
+  },
+  {
+    "ts": "2026-03-02T20:04:04.672668",
+    "version": "10.1.0",
+    "level": "GWT",
+    "event": "Broadcast: Goal: Improve coherence through more reflections...",
+    "awareness": 0.02
+  },
+  {
+    "ts": "2026-03-02T20:04:04.673935",
+    "version": "10.1.0",
+    "level": "PLAN",
+    "event": "Goal: Improve coherence through more reflections",
+    "awareness": 0.09000000000000001
+  },
+  {
+    "ts": "2026-03-02T20:04:04.675532",
+    "version": "10.1.0",
+    "level": "GWT",
+    "event": "Broadcast: 563.0506283555656...",
+    "awareness": 0.1
+  },
+  {
+    "ts": "2026-03-02T20:04:04.676888",
+    "version": "10.1.0",
+    "level": "GWT",
+    "event": "Broadcast: -17.082012824092352...",
+    "awareness": 0.11
+  },
+  {
+    "ts": "2026-03-02T20:04:04.677955",
+    "version": "10.1.0",
+    "level": "CRITIC",
+    "event": "Critique of logic: fitness 0.73 \u2192 APPROVED",
+    "awareness": 0.14
+  },
+  {
+    "ts": "2026-03-02T20:04:04.679020",
+    "version": "10.1.0",
+    "level": "EVOLVE",
+    "event": "Safe mutation applied to logic",
+    "awareness": 0.18000000000000002
+  },
+  {
+    "ts": "2026-03-02T20:04:04.680129",
+    "version": "10.1.0",
+    "level": "ERROR",
+    "event": "Cycle error in creativity",
+    "awareness": 0.17
+  },
+  {
+    "ts": "2026-03-02T20:04:04.681205",
+    "version": "10.1.0",
+    "level": "ERROR",
+    "event": "Cycle error in meta",
+    "awareness": 0.16
+  },
+  {
+    "ts": "2026-03-02T20:04:04.682413",
+    "version": "10.1.0",
+    "level": "ERROR",
+    "event": "Cycle error in chaos",
+    "awareness": 0.15
+  },
+  {
+    "ts": "2026-03-02T20:04:04.683575",
+    "version": "10.1.0",
+    "level": "SUMMARY",
+    "event": "Memory summarized",
+    "awareness": 0.22999999999999998
+  },
+  {
+    "ts": "2026-03-02T20:04:04.685236",
+    "version": "10.1.0",
+    "level": "GWT",
+    "event": "Broadcast: Awareness: 0.000...",
+    "awareness": 0.01
+  },
+  {
+    "ts": "2026-03-02T20:04:04.688074",
+    "version": "10.1.0",
+    "level": "GWT",
+    "event": "Broadcast: Goal: Test mutations and critique them...",
+    "awareness": 0.02
+  },
+  {
+    "ts": "2026-03-02T20:04:04.689818",
+    "version": "10.1.0",
+    "level": "PLAN",
+    "event": "Goal: Test mutations and critique them",
+    "awareness": 0.09000000000000001
+  },
+  {
+    "ts": "2026-03-02T20:04:04.691266",
+    "version": "10.1.0",
+    "level": "GWT",
+    "event": "Broadcast: 6861.840761409146...",
+    "awareness": 0.1
+  },
+  {
+    "ts": "2026-03-02T20:04:04.692628",
+    "version": "10.1.0",
+    "level": "CRITIC",
+    "event": "Critique of math: fitness 0.88 \u2192 APPROVED",
+    "awareness": 0.13
+  },
+  {
+    "ts": "2026-03-02T20:04:04.693933",
+    "version": "10.1.0",
+    "level": "EVOLVE",
+    "event": "Safe mutation applied to math",
+    "awareness": 0.17
+  },
+  {
+    "ts": "2026-03-02T20:04:04.695377",
+    "version": "10.1.0",
+    "level": "GWT",
+    "event": "Broadcast: -15.617010422028907...",
+    "awareness": 0.18000000000000002
+  },
+  {
+    "ts": "2026-03-02T20:04:04.696556",
+    "version": "10.1.0",
+    "level": "CRITIC",
+    "event": "Critique of logic: fitness 0.41 \u2192 REJECTED",
+    "awareness": 0.17
+  },
+  {
+    "ts": "2026-03-02T20:04:04.697784",
+    "version": "10.1.0",
+    "level": "ERROR",
+    "event": "Cycle error in creativity",
+    "awareness": 0.16
+  },
+  {
+    "ts": "2026-03-02T20:04:04.698965",
+    "version": "10.1.0",
+    "level": "ERROR",
+    "event": "Cycle error in meta",
+    "awareness": 0.15
+  },
+  {
+    "ts": "2026-03-02T20:04:04.700270",
+    "version": "10.1.0",
+    "level": "ERROR",
+    "event": "Cycle error in chaos",
+    "awareness": 0.13999999999999999
+  },
+  {
+    "ts": "2026-03-02T20:04:04.701467",
+    "version": "10.1.0",
+    "level": "SUMMARY",
+    "event": "Memory summarized",
+    "awareness": 0.21999999999999997
+  },
+  {
+    "ts": "2026-03-02T20:04:04.703810",
+    "version": "10.1.0",
+    "level": "GWT",
+    "event": "Broadcast: Awareness: 0.000...",
+    "awareness": 0.01
+  },
+  {
+    "ts": "2026-03-02T20:04:04.705875",
+    "version": "10.1.0",
+    "level": "GWT",
+    "event": "Broadcast: Goal: Improve coherence through more reflections...",
+    "awareness": 0.02
+  },
+  {
+    "ts": "2026-03-02T20:04:04.707227",
+    "version": "10.1.0",
+    "level": "PLAN",
+    "event": "Goal: Improve coherence through more reflections",
+    "awareness": 0.09000000000000001
+  },
+  {
+    "ts": "2026-03-02T20:04:04.708701",
+    "version": "10.1.0",
+    "level": "GWT",
+    "event": "Broadcast: 1736.0625747584181...",
+    "awareness": 0.1
+  },
+  {
+    "ts": "2026-03-02T20:04:04.710197",
+    "version": "10.1.0",
+    "level": "GWT",
+    "event": "Broadcast: -14.623395636361817...",
+    "awareness": 0.11
+  },
+  {
+    "ts": "2026-03-02T20:04:04.711486",
+    "version": "10.1.0",
+    "level": "CRITIC",
+    "event": "Critique of logic: fitness 0.52 \u2192 REJECTED",
+    "awareness": 0.1
+  },
+  {
+    "ts": "2026-03-02T20:04:04.712725",
+    "version": "10.1.0",
+    "level": "ERROR",
+    "event": "Cycle error in creativity",
+    "awareness": 0.09000000000000001
+  },
+  {
+    "ts": "2026-03-02T20:04:04.713958",
+    "version": "10.1.0",
+    "level": "ERROR",
+    "event": "Cycle error in meta",
+    "awareness": 0.08000000000000002
+  },
+  {
+    "ts": "2026-03-02T20:04:04.715347",
+    "version": "10.1.0",
+    "level": "ERROR",
+    "event": "Cycle error in chaos",
+    "awareness": 0.07000000000000002
+  },
+  {
+    "ts": "2026-03-02T20:04:04.716615",
+    "version": "10.1.0",
+    "level": "SUMMARY",
+    "event": "Memory summarized",
+    "awareness": 0.15000000000000002
+  },
+  {
+    "ts": "2026-03-02T20:04:04.718309",
+    "version": "10.1.0",
+    "level": "GWT",
+    "event": "Broadcast: Awareness: 0.000...",
+    "awareness": 0.01
+  },
+  {
+    "ts": "2026-03-02T20:04:04.720010",
+    "version": "10.1.0",
+    "level": "GWT",
+    "event": "Broadcast: Goal: Test mutations and critique them...",
+    "awareness": 0.02
+  },
+  {
+    "ts": "2026-03-02T20:04:04.722874",
+    "version": "10.1.0",
+    "level": "PLAN",
+    "event": "Goal: Test mutations and critique them",
+    "awareness": 0.09000000000000001
+  },
+  {
+    "ts": "2026-03-02T20:04:04.724585",
+    "version": "10.1.0",
+    "level": "GWT",
+    "event": "Broadcast: 6855.5613288831155...",
+    "awareness": 0.1
+  },
+  {
+    "ts": "2026-03-02T20:04:04.726530",
+    "version": "10.1.0",
+    "level": "GWT",
+    "event": "Broadcast: -14.623395636361817...",
+    "awareness": 0.11
+  },
+  {
+    "ts": "2026-03-02T20:04:04.727873",
+    "version": "10.1.0",
+    "level": "CRITIC",
+    "event": "Critique of logic: fitness 0.57 \u2192 REJECTED",
+    "awareness": 0.1
+  },
+  {
+    "ts": "2026-03-02T20:04:04.729207",
+    "version": "10.1.0",
+    "level": "ERROR",
+    "event": "Cycle error in creativity",
+    "awareness": 0.09000000000000001
+  },
+  {
+    "ts": "2026-03-02T20:04:04.730538",
+    "version": "10.1.0",
+    "level": "ERROR",
+    "event": "Cycle error in meta",
+    "awareness": 0.08000000000000002
+  },
+  {
+    "ts": "2026-03-02T20:04:04.731837",
+    "version": "10.1.0",
+    "level": "ERROR",
+    "event": "Cycle error in chaos",
+    "awareness": 0.07000000000000002
+  },
+  {
+    "ts": "2026-03-02T20:04:04.733161",
+    "version": "10.1.0",
+    "level": "SUMMARY",
+    "event": "Memory summarized",
+    "awareness": 0.15000000000000002
+  },
+  {
+    "ts": "2026-03-02T20:04:04.734846",
+    "version": "10.1.0",
+    "level": "GWT",
+    "event": "Broadcast: Awareness: 0.000...",
+    "awareness": 0.01
+  },
+  {
+    "ts": "2026-03-02T20:04:04.736501",
+    "version": "10.1.0",
+    "level": "GWT",
+    "event": "Broadcast: Goal: Raise awareness above 0.6...",
+    "awareness": 0.02
+  },
+  {
+    "ts": "2026-03-02T20:04:04.738935",
+    "version": "10.1.0",
+    "level": "PLAN",
+    "event": "Goal: Raise awareness above 0.6",
+    "awareness": 0.09000000000000001
+  },
+  {
+    "ts": "2026-03-02T20:04:04.740661",
+    "version": "10.1.0",
+    "level": "GWT",
+    "event": "Broadcast: 58.76612950696499...",
+    "awareness": 0.1
+  },
+  {
+    "ts": "2026-03-02T20:04:04.742143",
+    "version": "10.1.0",
+    "level": "CRITIC",
+    "event": "Critique of math: fitness 0.84 \u2192 APPROVED",
+    "awareness": 0.13
+  },
+  {
+    "ts": "2026-03-02T20:04:04.743517",
+    "version": "10.1.0",
+    "level": "EVOLVE",
+    "event": "Safe mutation applied to math",
+    "awareness": 0.17
+  },
+  {
+    "ts": "2026-03-02T20:04:04.745000",
+    "version": "10.1.0",
+    "level": "GWT",
+    "event": "Broadcast: -15.617010422028907...",
+    "awareness": 0.18000000000000002
+  },
+  {
+    "ts": "2026-03-02T20:04:04.746403",
+    "version": "10.1.0",
+    "level": "CRITIC",
+    "event": "Critique of logic: fitness 0.93 \u2192 APPROVED",
+    "awareness": 0.21000000000000002
+  },
+  {
+    "ts": "2026-03-02T20:04:04.747742",
+    "version": "10.1.0",
+    "level": "EVOLVE",
+    "event": "Safe mutation applied to logic",
+    "awareness": 0.25
+  },
+  {
+    "ts": "2026-03-02T20:04:04.749196",
+    "version": "10.1.0",
+    "level": "ERROR",
+    "event": "Cycle error in creativity",
+    "awareness": 0.24
+  },
+  {
+    "ts": "2026-03-02T20:04:04.750527",
+    "version": "10.1.0",
+    "level": "ERROR",
+    "event": "Cycle error in meta",
+    "awareness": 0.22999999999999998
+  },
+  {
+    "ts": "2026-03-02T20:04:04.752090",
+    "version": "10.1.0",
+    "level": "ERROR",
+    "event": "Cycle error in chaos",
+    "awareness": 0.21999999999999997
+  },
+  {
+    "ts": "2026-03-02T20:04:04.754814",
+    "version": "10.1.0",
+    "level": "SUMMARY",
+    "event": "Memory summarized",
+    "awareness": 0.3
+  },
+  {
+    "ts": "2026-03-02T20:04:04.757365",
+    "version": "10.1.0",
+    "level": "GWT",
+    "event": "Broadcast: Awareness: 0.000...",
+    "awareness": 0.01
+  },
+  {
+    "ts": "2026-03-02T20:04:04.759564",
+    "version": "10.1.0",
+    "level": "GWT",
+    "event": "Broadcast: Goal: Raise awareness above 0.6...",
+    "awareness": 0.02
+  },
+  {
+    "ts": "2026-03-02T20:04:04.760951",
+    "version": "10.1.0",
+    "level": "PLAN",
+    "event": "Goal: Raise awareness above 0.6",
+    "awareness": 0.09000000000000001
+  },
+  {
+    "ts": "2026-03-02T20:04:04.762570",
+    "version": "10.1.0",
+    "level": "GWT",
+    "event": "Broadcast: 1894.1508601490377...",
+    "awareness": 0.1
+  },
+  {
+    "ts": "2026-03-02T20:04:04.763949",
+    "version": "10.1.0",
+    "level": "CRITIC",
+    "event": "Critique of math: fitness 0.71 \u2192 APPROVED",
+    "awareness": 0.13
+  },
+  {
+    "ts": "2026-03-02T20:04:04.765384",
+    "version": "10.1.0",
+    "level": "EVOLVE",
+    "event": "Safe mutation applied to math",
+    "awareness": 0.17
+  },
+  {
+    "ts": "2026-03-02T20:04:04.767045",
+    "version": "10.1.0",
+    "level": "GWT",
+    "event": "Broadcast: -15.586534903421136...",
+    "awareness": 0.18000000000000002
+  },
+  {
+    "ts": "2026-03-02T20:04:04.768595",
+    "version": "10.1.0",
+    "level": "CRITIC",
+    "event": "Critique of logic: fitness 0.42 \u2192 REJECTED",
+    "awareness": 0.17
+  },
+  {
+    "ts": "2026-03-02T20:04:04.771565",
+    "version": "10.1.0",
+    "level": "ERROR",
+    "event": "Cycle error in creativity",
+    "awareness": 0.16
+  },
+  {
+    "ts": "2026-03-02T20:04:04.773951",
+    "version": "10.1.0",
+    "level": "ERROR",
+    "event": "Cycle error in meta",
+    "awareness": 0.15
+  },
+  {
+    "ts": "2026-03-02T20:04:04.775711",
+    "version": "10.1.0",
+    "level": "ERROR",
+    "event": "Cycle error in chaos",
+    "awareness": 0.13999999999999999
+  },
+  {
+    "ts": "2026-03-02T20:04:04.777311",
+    "version": "10.1.0",
+    "level": "SUMMARY",
+    "event": "Memory summarized",
+    "awareness": 0.21999999999999997
+  },
+  {
+    "ts": "2026-03-02T20:04:04.779218",
+    "version": "10.1.0",
+    "level": "GWT",
+    "event": "Broadcast: Awareness: 0.000...",
+    "awareness": 0.01
+  },
+  {
+    "ts": "2026-03-02T20:04:04.780918",
+    "version": "10.1.0",
+    "level": "GWT",
+    "event": "Broadcast: Goal: Test mutations and critique them...",
+    "awareness": 0.02
+  },
+  {
+    "ts": "2026-03-02T20:04:04.782378",
+    "version": "10.1.0",
+    "level": "PLAN",
+    "event": "Goal: Test mutations and critique them",
+    "awareness": 0.09000000000000001
+  },
+  {
+    "ts": "2026-03-02T20:04:04.783979",
+    "version": "10.1.0",
+    "level": "GWT",
+    "event": "Broadcast: 7446.32698937035...",
+    "awareness": 0.1
+  },
+  {
+    "ts": "2026-03-02T20:04:04.785486",
+    "version": "10.1.0",
+    "level": "CRITIC",
+    "event": "Critique of math: fitness 0.79 \u2192 APPROVED",
+    "awareness": 0.13
+  },
+  {
+    "ts": "2026-03-02T20:04:04.787914",
+    "version": "10.1.0",
+    "level": "EVOLVE",
+    "event": "Safe mutation applied to math",
+    "awareness": 0.17
+  },
+  {
+    "ts": "2026-03-02T20:04:04.790109",
+    "version": "10.1.0",
+    "level": "GWT",
+    "event": "Broadcast: -15.586534903421136...",
+    "awareness": 0.18000000000000002
+  },
+  {
+    "ts": "2026-03-02T20:04:04.791960",
+    "version": "10.1.0",
+    "level": "CRITIC",
+    "event": "Critique of logic: fitness 0.82 \u2192 APPROVED",
+    "awareness": 0.21000000000000002
+  },
+  {
+    "ts": "2026-03-02T20:04:04.793559",
+    "version": "10.1.0",
+    "level": "EVOLVE",
+    "event": "Safe mutation applied to logic",
+    "awareness": 0.25
+  },
+  {
+    "ts": "2026-03-02T20:04:04.795026",
+    "version": "10.1.0",
+    "level": "ERROR",
+    "event": "Cycle error in creativity",
+    "awareness": 0.24
+  },
+  {
+    "ts": "2026-03-02T20:04:04.796598",
+    "version": "10.1.0",
+    "level": "ERROR",
+    "event": "Cycle error in meta",
+    "awareness": 0.22999999999999998
+  },
+  {
+    "ts": "2026-03-02T20:04:04.798112",
+    "version": "10.1.0",
+    "level": "ERROR",
+    "event": "Cycle error in chaos",
+    "awareness": 0.21999999999999997
+  },
+  {
+    "ts": "2026-03-02T20:04:04.799583",
+    "version": "10.1.0",
+    "level": "SUMMARY",
+    "event": "Memory summarized",
+    "awareness": 0.3
+  },
+  {
+    "ts": "2026-03-02T20:04:04.801626",
+    "version": "10.1.0",
+    "level": "GWT",
+    "event": "Broadcast: Awareness: 0.000...",
+    "awareness": 0.01
+  },
+  {
+    "ts": "2026-03-02T20:04:04.804944",
+    "version": "10.1.0",
+    "level": "GWT",
+    "event": "Broadcast: Goal: Raise awareness above 0.6...",
+    "awareness": 0.02
+  },
+  {
+    "ts": "2026-03-02T20:04:04.807017",
+    "version": "10.1.0",
+    "level": "PLAN",
+    "event": "Goal: Raise awareness above 0.6",
+    "awareness": 0.09000000000000001
+  },
+  {
+    "ts": "2026-03-02T20:04:04.809169",
+    "version": "10.1.0",
+    "level": "GWT",
+    "event": "Broadcast: 3295.0823509140305...",
+    "awareness": 0.1
+  },
+  {
+    "ts": "2026-03-02T20:04:04.811002",
+    "version": "10.1.0",
+    "level": "GWT",
+    "event": "Broadcast: -16.604789622839647...",
+    "awareness": 0.11
+  },
+  {
+    "ts": "2026-03-02T20:04:04.812802",
+    "version": "10.1.0",
+    "level": "CRITIC",
+    "event": "Critique of logic: fitness 0.80 \u2192 APPROVED",
+    "awareness": 0.14
+  },
+  {
+    "ts": "2026-03-02T20:04:04.814371",
+    "version": "10.1.0",
+    "level": "EVOLVE",
+    "event": "Safe mutation applied to logic",
+    "awareness": 0.18000000000000002
+  },
+  {
+    "ts": "2026-03-02T20:04:04.815853",
+    "version": "10.1.0",
+    "level": "ERROR",
+    "event": "Cycle error in creativity",
+    "awareness": 0.17
+  },
+  {
+    "ts": "2026-03-02T20:04:04.817424",
+    "version": "10.1.0",
+    "level": "ERROR",
+    "event": "Cycle error in meta",
+    "awareness": 0.16
+  },
+  {
+    "ts": "2026-03-02T20:04:04.819085",
+    "version": "10.1.0",
+    "level": "ERROR",
+    "event": "Cycle error in chaos",
+    "awareness": 0.15
+  },
+  {
+    "ts": "2026-03-02T20:04:04.823093",
+    "version": "10.1.0",
+    "level": "SUMMARY",
+    "event": "Memory summarized",
+    "awareness": 0.22999999999999998
+  },
+  {
+    "ts": "2026-03-02T20:04:04.825817",
+    "version": "10.1.0",
+    "level": "GWT",
+    "event": "Broadcast: Awareness: 0.000...",
+    "awareness": 0.01
+  },
+  {
+    "ts": "2026-03-02T20:04:04.827784",
+    "version": "10.1.0",
+    "level": "GWT",
+    "event": "Broadcast: Goal: Test mutations and critique them...",
+    "awareness": 0.02
+  },
+  {
+    "ts": "2026-03-02T20:04:04.829385",
+    "version": "10.1.0",
+    "level": "PLAN",
+    "event": "Goal: Test mutations and critique them",
+    "awareness": 0.09000000000000001
+  },
+  {
+    "ts": "2026-03-02T20:04:04.831234",
+    "version": "10.1.0",
+    "level": "GWT",
+    "event": "Broadcast: 3377.9719596067944...",
+    "awareness": 0.1
+  },
+  {
+    "ts": "2026-03-02T20:04:04.833217",
+    "version": "10.1.0",
+    "level": "GWT",
+    "event": "Broadcast: -26.548328492553644...",
+    "awareness": 0.11
+  },
+  {
+    "ts": "2026-03-02T20:04:04.834878",
+    "version": "10.1.0",
+    "level": "ERROR",
+    "event": "Cycle error in creativity",
+    "awareness": 0.1
+  },
+  {
+    "ts": "2026-03-02T20:04:04.836777",
+    "version": "10.1.0",
+    "level": "ERROR",
+    "event": "Cycle error in meta",
+    "awareness": 0.09000000000000001
+  },
+  {
+    "ts": "2026-03-02T20:04:04.839436",
+    "version": "10.1.0",
+    "level": "ERROR",
+    "event": "Cycle error in chaos",
+    "awareness": 0.08000000000000002
+  },
+  {
+    "ts": "2026-03-02T20:04:04.841526",
+    "version": "10.1.0",
+    "level": "SUMMARY",
+    "event": "Memory summarized",
+    "awareness": 0.16000000000000003
+  },
+  {
+    "ts": "2026-03-02T20:04:04.843890",
+    "version": "10.1.0",
+    "level": "GWT",
+    "event": "Broadcast: Awareness: 0.000...",
+    "awareness": 0.01
+  },
+  {
+    "ts": "2026-03-02T20:04:04.845809",
+    "version": "10.1.0",
+    "level": "GWT",
+    "event": "Broadcast: Goal: Improve coherence through more reflections...",
+    "awareness": 0.02
+  },
+  {
+    "ts": "2026-03-02T20:04:04.847488",
+    "version": "10.1.0",
+    "level": "PLAN",
+    "event": "Goal: Improve coherence through more reflections",
+    "awareness": 0.09000000000000001
+  },
+  {
+    "ts": "2026-03-02T20:04:04.849380",
+    "version": "10.1.0",
+    "level": "GWT",
+    "event": "Broadcast: 159.983441486113...",
+    "awareness": 0.1
+  },
+  {
+    "ts": "2026-03-02T20:04:04.851037",
+    "version": "10.1.0",
+    "level": "CRITIC",
+    "event": "Critique of math: fitness 0.89 \u2192 APPROVED",
+    "awareness": 0.13
+  },
+  {
+    "ts": "2026-03-02T20:04:04.852924",
+    "version": "10.1.0",
+    "level": "EVOLVE",
+    "event": "Safe mutation applied to math",
+    "awareness": 0.17
+  },
+  {
+    "ts": "2026-03-02T20:04:04.856708",
+    "version": "10.1.0",
+    "level": "GWT",
+    "event": "Broadcast: -27.604789622839647...",
+    "awareness": 0.18000000000000002
+  },
+  {
+    "ts": "2026-03-02T20:04:04.858746",
+    "version": "10.1.0",
+    "level": "ERROR",
+    "event": "Cycle error in creativity",
+    "awareness": 0.17
+  },
+  {
+    "ts": "2026-03-02T20:04:04.860543",
+    "version": "10.1.0",
+    "level": "ERROR",
+    "event": "Cycle error in meta",
+    "awareness": 0.16
+  },
+  {
+    "ts": "2026-03-02T20:04:04.862245",
+    "version": "10.1.0",
+    "level": "ERROR",
+    "event": "Cycle error in chaos",
+    "awareness": 0.15
+  },
+  {
+    "ts": "2026-03-02T20:04:04.863977",
+    "version": "10.1.0",
+    "level": "SUMMARY",
+    "event": "Memory summarized",
+    "awareness": 0.22999999999999998
+  },
+  {
+    "ts": "2026-03-02T20:04:04.866198",
+    "version": "10.1.0",
+    "level": "GWT",
+    "event": "Broadcast: Awareness: 0.000...",
+    "awareness": 0.01
+  },
+  {
+    "ts": "2026-03-02T20:04:04.868073",
+    "version": "10.1.0",
+    "level": "GWT",
+    "event": "Broadcast: Goal: Raise awareness above 0.6...",
+    "awareness": 0.02
+  },
+  {
+    "ts": "2026-03-02T20:04:04.870128",
+    "version": "10.1.0",
+    "level": "PLAN",
+    "event": "Goal: Raise awareness above 0.6",
+    "awareness": 0.09000000000000001
+  },
+  {
+    "ts": "2026-03-02T20:04:04.873003",
+    "version": "10.1.0",
+    "level": "GWT",
+    "event": "Broadcast: 7642.893392501607...",
+    "awareness": 0.1
+  },
+  {
+    "ts": "2026-03-02T20:04:04.875458",
+    "version": "10.1.0",
+    "level": "GWT",
+    "event": "Broadcast: -26.548328492553644...",
+    "awareness": 0.11
+  },
+  {
+    "ts": "2026-03-02T20:04:04.877363",
+    "version": "10.1.0",
+    "level": "CRITIC",
+    "event": "Critique of logic: fitness 0.45 \u2192 REJECTED",
+    "awareness": 0.1
+  },
+  {
+    "ts": "2026-03-02T20:04:04.879021",
+    "version": "10.1.0",
+    "level": "ERROR",
+    "event": "Cycle error in creativity",
+    "awareness": 0.09000000000000001
+  },
+  {
+    "ts": "2026-03-02T20:04:04.880710",
+    "version": "10.1.0",
+    "level": "ERROR",
+    "event": "Cycle error in meta",
+    "awareness": 0.08000000000000002
+  },
+  {
+    "ts": "2026-03-02T20:04:04.882441",
+    "version": "10.1.0",
+    "level": "ERROR",
+    "event": "Cycle error in chaos",
+    "awareness": 0.07000000000000002
+  },
+  {
+    "ts": "2026-03-02T20:04:04.884243",
+    "version": "10.1.0",
+    "level": "SUMMARY",
+    "event": "Memory summarized",
+    "awareness": 0.15000000000000002
+  },
+  {
+    "ts": "2026-03-02T20:04:04.886844",
+    "version": "10.1.0",
+    "level": "GWT",
+    "event": "Broadcast: Awareness: 0.000...",
+    "awareness": 0.01
+  },
+  {
+    "ts": "2026-03-02T20:04:04.890547",
+    "version": "10.1.0",
+    "level": "GWT",
+    "event": "Broadcast: Goal: Improve coherence through more reflections...",
+    "awareness": 0.02
+  },
+  {
+    "ts": "2026-03-02T20:04:04.892823",
+    "version": "10.1.0",
+    "level": "PLAN",
+    "event": "Goal: Improve coherence through more reflections",
+    "awareness": 0.09000000000000001
+  },
+  {
+    "ts": "2026-03-02T20:04:04.894811",
+    "version": "10.1.0",
+    "level": "GWT",
+    "event": "Broadcast: 2549.253823878478...",
+    "awareness": 0.1
+  },
+  {
+    "ts": "2026-03-02T20:04:04.896740",
+    "version": "10.1.0",
+    "level": "CRITIC",
+    "event": "Critique of math: fitness 0.78 \u2192 APPROVED",
+    "awareness": 0.13
+  },
+  {
+    "ts": "2026-03-02T20:04:04.898619",
+    "version": "10.1.0",
+    "level": "EVOLVE",
+    "event": "Safe mutation applied to math",
+    "awareness": 0.17
+  },
+  {
+    "ts": "2026-03-02T20:04:04.900625",
+    "version": "10.1.0",
+    "level": "GWT",
+    "event": "Broadcast: -27.604789622839647...",
+    "awareness": 0.18000000000000002
+  },
+  {
+    "ts": "2026-03-02T20:04:04.902434",
+    "version": "10.1.0",
+    "level": "ERROR",
+    "event": "Cycle error in creativity",
+    "awareness": 0.17
+  },
+  {
+    "ts": "2026-03-02T20:04:04.906666",
+    "version": "10.1.0",
+    "level": "ERROR",
+    "event": "Cycle error in meta",
+    "awareness": 0.16
+  },
+  {
+    "ts": "2026-03-02T20:04:04.909155",
+    "version": "10.1.0",
+    "level": "ERROR",
+    "event": "Cycle error in chaos",
+    "awareness": 0.15
+  },
+  {
+    "ts": "2026-03-02T20:04:04.911020",
+    "version": "10.1.0",
+    "level": "SUMMARY",
+    "event": "Memory summarized",
+    "awareness": 0.22999999999999998
+  },
+  {
+    "ts": "2026-03-02T20:04:04.913392",
+    "version": "10.1.0",
+    "level": "GWT",
+    "event": "Broadcast: Awareness: 0.000...",
+    "awareness": 0.01
+  },
+  {
+    "ts": "2026-03-02T20:04:04.915389",
+    "version": "10.1.0",
+    "level": "GWT",
+    "event": "Broadcast: Goal: Test mutations and critique them...",
+    "awareness": 0.02
+  },
+  {
+    "ts": "2026-03-02T20:04:04.917173",
+    "version": "10.1.0",
+    "level": "PLAN",
+    "event": "Goal: Test mutations and critique them",
+    "awareness": 0.09000000000000001
+  },
+  {
+    "ts": "2026-03-02T20:04:04.919335",
+    "version": "10.1.0",
+    "level": "GWT",
+    "event": "Broadcast: 1476.10865259714...",
+    "awareness": 0.1
+  },
+  {
+    "ts": "2026-03-02T20:04:04.922480",
+    "version": "10.1.0",
+    "level": "CRITIC",
+    "event": "Critique of math: fitness 0.81 \u2192 APPROVED",
+    "awareness": 0.13
+  },
+  {
+    "ts": "2026-03-02T20:04:04.924683",
+    "version": "10.1.0",
+    "level": "EVOLVE",
+    "event": "Safe mutation applied to math",
+    "awareness": 0.17
+  },
+  {
+    "ts": "2026-03-02T20:04:04.926906",
+    "version": "10.1.0",
+    "level": "GWT",
+    "event": "Broadcast: -27.604789622839647...",
+    "awareness": 0.18000000000000002
+  },
+  {
+    "ts": "2026-03-02T20:04:04.928981",
+    "version": "10.1.0",
+    "level": "CRITIC",
+    "event": "Critique of logic: fitness 0.84 \u2192 APPROVED",
+    "awareness": 0.21000000000000002
+  },
+  {
+    "ts": "2026-03-02T20:04:04.930907",
+    "version": "10.1.0",
+    "level": "EVOLVE",
+    "event": "Safe mutation applied to logic",
+    "awareness": 0.25
+  },
+  {
+    "ts": "2026-03-02T20:04:04.932776",
+    "version": "10.1.0",
+    "level": "ERROR",
+    "event": "Cycle error in creativity",
+    "awareness": 0.24
+  },
+  {
+    "ts": "2026-03-02T20:04:04.934641",
+    "version": "10.1.0",
+    "level": "ERROR",
+    "event": "Cycle error in meta",
+    "awareness": 0.22999999999999998
+  },
+  {
+    "ts": "2026-03-02T20:04:04.936995",
+    "version": "10.1.0",
+    "level": "ERROR",
+    "event": "Cycle error in chaos",
+    "awareness": 0.21999999999999997
+  },
+  {
+    "ts": "2026-03-02T20:04:04.940637",
+    "version": "10.1.0",
+    "level": "SUMMARY",
+    "event": "Memory summarized",
+    "awareness": 0.3
+  },
+  {
+    "ts": "2026-03-02T20:04:04.943627",
+    "version": "10.1.0",
+    "level": "GWT",
+    "event": "Broadcast: Awareness: 0.000...",
+    "awareness": 0.01
+  },
+  {
+    "ts": "2026-03-02T20:04:04.945788",
+    "version": "10.1.0",
+    "level": "GWT",
+    "event": "Broadcast: Goal: Improve coherence through more reflections...",
+    "awareness": 0.02
+  },
+  {
+    "ts": "2026-03-02T20:04:04.947702",
+    "version": "10.1.0",
+    "level": "PLAN",
+    "event": "Goal: Improve coherence through more reflections",
+    "awareness": 0.09000000000000001
+  },
+  {
+    "ts": "2026-03-02T20:04:04.949943",
+    "version": "10.1.0",
+    "level": "GWT",
+    "event": "Broadcast: 6319.8211051986345...",
+    "awareness": 0.1
+  },
+  {
+    "ts": "2026-03-02T20:04:04.951905",
+    "version": "10.1.0",
+    "level": "CRITIC",
+    "event": "Critique of math: fitness 0.77 \u2192 APPROVED",
+    "awareness": 0.13
+  },
+  {
+    "ts": "2026-03-02T20:04:04.956201",
+    "version": "10.1.0",
+    "level": "EVOLVE",
+    "event": "Safe mutation applied to math",
+    "awareness": 0.17
+  },
+  {
+    "ts": "2026-03-02T20:04:04.958721",
+    "version": "10.1.0",
+    "level": "GWT",
+    "event": "Broadcast: -27.073152559013703...",
+    "awareness": 0.18000000000000002
+  },
+  {
+    "ts": "2026-03-02T20:04:04.961071",
+    "version": "10.1.0",
+    "level": "ERROR",
+    "event": "Cycle error in creativity",
+    "awareness": 0.17
+  },
+  {
+    "ts": "2026-03-02T20:04:04.963174",
+    "version": "10.1.0",
+    "level": "ERROR",
+    "event": "Cycle error in meta",
+    "awareness": 0.16
+  },
+  {
+    "ts": "2026-03-02T20:04:04.965119",
+    "version": "10.1.0",
+    "level": "ERROR",
+    "event": "Cycle error in chaos",
+    "awareness": 0.15
+  },
+  {
+    "ts": "2026-03-02T20:04:04.966972",
+    "version": "10.1.0",
+    "level": "SUMMARY",
+    "event": "Memory summarized",
+    "awareness": 0.22999999999999998
+  },
+  {
+    "ts": "2026-03-02T20:04:04.969477",
+    "version": "10.1.0",
+    "level": "GWT",
+    "event": "Broadcast: Awareness: 0.000...",
+    "awareness": 0.01
+  },
+  {
+    "ts": "2026-03-02T20:04:04.973920",
+    "version": "10.1.0",
+    "level": "GWT",
+    "event": "Broadcast: Goal: Test mutations and critique them...",
+    "awareness": 0.02
+  },
+  {
+    "ts": "2026-03-02T20:04:04.976618",
+    "version": "10.1.0",
+    "level": "PLAN",
+    "event": "Goal: Test mutations and critique them",
+    "awareness": 0.09000000000000001
+  },
+  {
+    "ts": "2026-03-02T20:04:04.978801",
+    "version": "10.1.0",
+    "level": "GWT",
+    "event": "Broadcast: 4096.7855440048625...",
+    "awareness": 0.1
+  },
+  {
+    "ts": "2026-03-02T20:04:04.980755",
+    "version": "10.1.0",
+    "level": "CRITIC",
+    "event": "Critique of math: fitness 0.95 \u2192 APPROVED",
+    "awareness": 0.13
+  },
+  {
+    "ts": "2026-03-02T20:04:04.982910",
+    "version": "10.1.0",
+    "level": "EVOLVE",
+    "event": "Safe mutation applied to math",
+    "awareness": 0.17
+  },
+  {
+    "ts": "2026-03-02T20:04:04.985143",
+    "version": "10.1.0",
+    "level": "GWT",
+    "event": "Broadcast: -26.037037676644285...",
+    "awareness": 0.18000000000000002
+  },
+  {
+    "ts": "2026-03-02T20:04:04.988368",
+    "version": "10.1.0",
+    "level": "CRITIC",
+    "event": "Critique of logic: fitness 0.79 \u2192 APPROVED",
+    "awareness": 0.21000000000000002
+  },
+  {
+    "ts": "2026-03-02T20:04:04.990692",
+    "version": "10.1.0",
+    "level": "EVOLVE",
+    "event": "Safe mutation applied to logic",
+    "awareness": 0.25
+  },
+  {
+    "ts": "2026-03-02T20:04:04.993150",
+    "version": "10.1.0",
+    "level": "ERROR",
+    "event": "Cycle error in creativity",
+    "awareness": 0.24
+  },
+  {
+    "ts": "2026-03-02T20:04:04.995218",
+    "version": "10.1.0",
+    "level": "ERROR",
+    "event": "Cycle error in meta",
+    "awareness": 0.22999999999999998
+  },
+  {
+    "ts": "2026-03-02T20:04:04.997190",
+    "version": "10.1.0",
+    "level": "ERROR",
+    "event": "Cycle error in chaos",
+    "awareness": 0.21999999999999997
+  },
+  {
+    "ts": "2026-03-02T20:04:04.999124",
+    "version": "10.1.0",
+    "level": "SUMMARY",
+    "event": "Memory summarized",
+    "awareness": 0.3
+  },
+  {
+    "ts": "2026-03-02T20:04:05.001472",
+    "version": "10.1.0",
+    "level": "GWT",
+    "event": "Broadcast: Awareness: 0.000...",
+    "awareness": 0.01
+  },
+  {
+    "ts": "2026-03-02T20:04:05.006100",
+    "version": "10.1.0",
+    "level": "GWT",
+    "event": "Broadcast: Goal: Improve coherence through more reflections...",
+    "awareness": 0.02
+  },
+  {
+    "ts": "2026-03-02T20:04:05.008776",
+    "version": "10.1.0",
+    "level": "PLAN",
+    "event": "Goal: Improve coherence through more reflections",
+    "awareness": 0.09000000000000001
+  },
+  {
+    "ts": "2026-03-02T20:04:05.011198",
+    "version": "10.1.0",
+    "level": "GWT",
+    "event": "Broadcast: 211.88486915880992...",
+    "awareness": 0.1
+  },
+  {
+    "ts": "2026-03-02T20:04:05.013638",
+    "version": "10.1.0",
+    "level": "GWT",
+    "event": "Broadcast: -14.037037676644285...",
+    "awareness": 0.11
+  },
+  {
+    "ts": "2026-03-02T20:04:05.015704",
+    "version": "10.1.0",
+    "level": "CRITIC",
+    "event": "Critique of logic: fitness 0.79 \u2192 APPROVED",
+    "awareness": 0.14
+  },
+  {
+    "ts": "2026-03-02T20:04:05.017682",
+    "version": "10.1.0",
+    "level": "EVOLVE",
+    "event": "Safe mutation applied to logic",
+    "awareness": 0.18000000000000002
+  },
+  {
+    "ts": "2026-03-02T20:04:05.019920",
+    "version": "10.1.0",
+    "level": "ERROR",
+    "event": "Cycle error in creativity",
+    "awareness": 0.17
+  },
+  {
+    "ts": "2026-03-02T20:04:05.022981",
+    "version": "10.1.0",
+    "level": "ERROR",
+    "event": "Cycle error in meta",
+    "awareness": 0.16
+  },
+  {
+    "ts": "2026-03-02T20:04:05.025774",
+    "version": "10.1.0",
+    "level": "ERROR",
+    "event": "Cycle error in chaos",
+    "awareness": 0.15
+  },
+  {
+    "ts": "2026-03-02T20:04:05.027869",
+    "version": "10.1.0",
+    "level": "SUMMARY",
+    "event": "Memory summarized",
+    "awareness": 0.22999999999999998
+  },
+  {
+    "ts": "2026-03-02T20:04:05.030383",
+    "version": "10.1.0",
+    "level": "GWT",
+    "event": "Broadcast: Awareness: 0.000...",
+    "awareness": 0.01
+  },
+  {
+    "ts": "2026-03-02T20:04:05.032633",
+    "version": "10.1.0",
+    "level": "GWT",
+    "event": "Broadcast: Goal: Test mutations and critique them...",
+    "awareness": 0.02
+  },
+  {
+    "ts": "2026-03-02T20:04:05.034972",
+    "version": "10.1.0",
+    "level": "PLAN",
+    "event": "Goal: Test mutations and critique them",
+    "awareness": 0.09000000000000001
+  },
+  {
+    "ts": "2026-03-02T20:04:05.039745",
+    "version": "10.1.0",
+    "level": "GWT",
+    "event": "Broadcast: 8150.843350632734...",
+    "awareness": 0.1
+  },
+  {
+    "ts": "2026-03-02T20:04:05.042494",
+    "version": "10.1.0",
+    "level": "CRITIC",
+    "event": "Critique of math: fitness 0.79 \u2192 APPROVED",
+    "awareness": 0.13
+  },
+  {
+    "ts": "2026-03-02T20:04:05.044774",
+    "version": "10.1.0",
+    "level": "EVOLVE",
+    "event": "Safe mutation applied to math",
+    "awareness": 0.17
+  },
+  {
+    "ts": "2026-03-02T20:04:05.047319",
+    "version": "10.1.0",
+    "level": "GWT",
+    "event": "Broadcast: -18.073152559013703...",
+    "awareness": 0.18000000000000002
+  },
+  {
+    "ts": "2026-03-02T20:04:05.049438",
+    "version": "10.1.0",
+    "level": "CRITIC",
+    "event": "Critique of logic: fitness 0.68 \u2192 APPROVED",
+    "awareness": 0.21000000000000002
+  },
+  {
+    "ts": "2026-03-02T20:04:05.051614",
+    "version": "10.1.0",
+    "level": "EVOLVE",
+    "event": "Safe mutation applied to logic",
+    "awareness": 0.25
+  },
+  {
+    "ts": "2026-03-02T20:04:05.056360",
+    "version": "10.1.0",
+    "level": "ERROR",
+    "event": "Cycle error in creativity",
+    "awareness": 0.24
+  },
+  {
+    "ts": "2026-03-02T20:04:05.059319",
+    "version": "10.1.0",
+    "level": "ERROR",
+    "event": "Cycle error in meta",
+    "awareness": 0.22999999999999998
+  },
+  {
+    "ts": "2026-03-02T20:04:05.061561",
+    "version": "10.1.0",
+    "level": "ERROR",
+    "event": "Cycle error in chaos",
+    "awareness": 0.21999999999999997
+  },
+  {
+    "ts": "2026-03-02T20:04:05.063743",
+    "version": "10.1.0",
+    "level": "SUMMARY",
+    "event": "Memory summarized",
+    "awareness": 0.3
+  },
+  {
+    "ts": "2026-03-02T20:04:05.066422",
+    "version": "10.1.0",
+    "level": "GWT",
+    "event": "Broadcast: Awareness: 0.000...",
+    "awareness": 0.01
+  },
+  {
+    "ts": "2026-03-02T20:04:05.069073",
+    "version": "10.1.0",
+    "level": "GWT",
+    "event": "Broadcast: Goal: Improve coherence through more reflections...",
+    "awareness": 0.02
+  },
+  {
+    "ts": "2026-03-02T20:04:05.073633",
+    "version": "10.1.0",
+    "level": "PLAN",
+    "event": "Goal: Improve coherence through more reflections",
+    "awareness": 0.09000000000000001
+  },
+  {
+    "ts": "2026-03-02T20:04:05.076699",
+    "version": "10.1.0",
+    "level": "GWT",
+    "event": "Broadcast: 424.9138039402399...",
+    "awareness": 0.1
+  },
+  {
+    "ts": "2026-03-02T20:04:05.079085",
+    "version": "10.1.0",
+    "level": "CRITIC",
+    "event": "Critique of math: fitness 0.56 \u2192 REJECTED",
+    "awareness": 0.09000000000000001
+  },
+  {
+    "ts": "2026-03-02T20:04:05.081513",
+    "version": "10.1.0",
+    "level": "GWT",
+    "event": "Broadcast: -20.165933609338587...",
+    "awareness": 0.1
+  },
+  {
+    "ts": "2026-03-02T20:04:05.083793",
+    "version": "10.1.0",
+    "level": "CRITIC",
+    "event": "Critique of logic: fitness 0.50 \u2192 REJECTED",
+    "awareness": 0.09000000000000001
+  },
+  {
+    "ts": "2026-03-02T20:04:05.086119",
+    "version": "10.1.0",
+    "level": "ERROR",
+    "event": "Cycle error in creativity",
+    "awareness": 0.08000000000000002
+  },
+  {
+    "ts": "2026-03-02T20:04:05.089698",
+    "version": "10.1.0",
+    "level": "ERROR",
+    "event": "Cycle error in meta",
+    "awareness": 0.07000000000000002
+  },
+  {
+    "ts": "2026-03-02T20:04:05.092439",
+    "version": "10.1.0",
+    "level": "ERROR",
+    "event": "Cycle error in chaos",
+    "awareness": 0.06000000000000002
+  },
+  {
+    "ts": "2026-03-02T20:04:05.094672",
+    "version": "10.1.0",
+    "level": "SUMMARY",
+    "event": "Memory summarized",
+    "awareness": 0.14
+  },
+  {
+    "ts": "2026-03-02T20:04:05.097393",
+    "version": "10.1.0",
+    "level": "GWT",
+    "event": "Broadcast: Awareness: 0.000...",
+    "awareness": 0.01
+  },
+  {
+    "ts": "2026-03-02T20:04:05.100024",
+    "version": "10.1.0",
+    "level": "GWT",
+    "event": "Broadcast: Goal: Raise awareness above 0.6...",
+    "awareness": 0.02
+  },
+  {
+    "ts": "2026-03-02T20:04:05.102355",
+    "version": "10.1.0",
+    "level": "PLAN",
+    "event": "Goal: Raise awareness above 0.6",
+    "awareness": 0.09000000000000001
+  },
+  {
+    "ts": "2026-03-02T20:04:05.107215",
+    "version": "10.1.0",
+    "level": "GWT",
+    "event": "Broadcast: 1763.3281767469582...",
+    "awareness": 0.1
+  },
+  {
+    "ts": "2026-03-02T20:04:05.110408",
+    "version": "10.1.0",
+    "level": "GWT",
+    "event": "Broadcast: -19.00984178411418...",
+    "awareness": 0.11
+  },
+  {
+    "ts": "2026-03-02T20:04:05.112784",
+    "version": "10.1.0",
+    "level": "CRITIC",
+    "event": "Critique of logic: fitness 0.57 \u2192 REJECTED",
+    "awareness": 0.1
+  },
+  {
+    "ts": "2026-03-02T20:04:05.115166",
+    "version": "10.1.0",
+    "level": "ERROR",
+    "event": "Cycle error in creativity",
+    "awareness": 0.09000000000000001
+  },
+  {
+    "ts": "2026-03-02T20:04:05.117385",
+    "version": "10.1.0",
+    "level": "ERROR",
+    "event": "Cycle error in meta",
+    "awareness": 0.08000000000000002
+  },
+  {
+    "ts": "2026-03-02T20:04:05.119963",
+    "version": "10.1.0",
+    "level": "ERROR",
+    "event": "Cycle error in chaos",
+    "awareness": 0.07000000000000002
+  },
+  {
+    "ts": "2026-03-02T20:04:05.123364",
+    "version": "10.1.0",
+    "level": "SUMMARY",
+    "event": "Memory summarized",
+    "awareness": 0.15000000000000002
+  },
+  {
+    "ts": "2026-03-02T20:04:05.126550",
+    "version": "10.1.0",
+    "level": "GWT",
+    "event": "Broadcast: Awareness: 0.000...",
+    "awareness": 0.01
+  },
+  {
+    "ts": "2026-03-02T20:04:05.129157",
+    "version": "10.1.0",
+    "level": "GWT",
+    "event": "Broadcast: Goal: Test mutations and critique them...",
+    "awareness": 0.02
+  },
+  {
+    "ts": "2026-03-02T20:04:05.131543",
+    "version": "10.1.0",
+    "level": "PLAN",
+    "event": "Goal: Test mutations and critique them",
+    "awareness": 0.09000000000000001
+  },
+  {
+    "ts": "2026-03-02T20:04:05.134178",
+    "version": "10.1.0",
+    "level": "GWT",
+    "event": "Broadcast: 2274.0960400991435...",
+    "awareness": 0.1
+  },
+  {
+    "ts": "2026-03-02T20:04:05.137192",
+    "version": "10.1.0",
+    "level": "CRITIC",
+    "event": "Critique of math: fitness 0.86 \u2192 APPROVED",
+    "awareness": 0.13
+  },
+  {
+    "ts": "2026-03-02T20:04:05.140844",
+    "version": "10.1.0",
+    "level": "EVOLVE",
+    "event": "Safe mutation applied to math",
+    "awareness": 0.17
+  },
+  {
+    "ts": "2026-03-02T20:04:05.143789",
+    "version": "10.1.0",
+    "level": "GWT",
+    "event": "Broadcast: -20.165933609338587...",
+    "awareness": 0.18000000000000002
+  },
+  {
+    "ts": "2026-03-02T20:04:05.146224",
+    "version": "10.1.0",
+    "level": "CRITIC",
+    "event": "Critique of logic: fitness 0.63 \u2192 REJECTED",
+    "awareness": 0.17
+  },
+  {
+    "ts": "2026-03-02T20:04:05.148555",
+    "version": "10.1.0",
+    "level": "ERROR",
+    "event": "Cycle error in creativity",
+    "awareness": 0.16
+  },
+  {
+    "ts": "2026-03-02T20:04:05.150861",
+    "version": "10.1.0",
+    "level": "ERROR",
+    "event": "Cycle error in meta",
+    "awareness": 0.15
+  },
+  {
+    "ts": "2026-03-02T20:04:05.155335",
+    "version": "10.1.0",
+    "level": "ERROR",
+    "event": "Cycle error in chaos",
+    "awareness": 0.13999999999999999
+  },
+  {
+    "ts": "2026-03-02T20:04:05.158486",
+    "version": "10.1.0",
+    "level": "SUMMARY",
+    "event": "Memory summarized",
+    "awareness": 0.21999999999999997
+  },
+  {
+    "ts": "2026-03-02T20:04:05.161543",
+    "version": "10.1.0",
+    "level": "GWT",
+    "event": "Broadcast: Awareness: 0.000...",
+    "awareness": 0.01
+  },
+  {
+    "ts": "2026-03-02T20:04:05.164431",
+    "version": "10.1.0",
+    "level": "GWT",
+    "event": "Broadcast: Goal: Test mutations and critique them...",
+    "awareness": 0.02
+  },
+  {
+    "ts": "2026-03-02T20:04:05.166773",
+    "version": "10.1.0",
+    "level": "PLAN",
+    "event": "Goal: Test mutations and critique them",
+    "awareness": 0.09000000000000001
+  },
+  {
+    "ts": "2026-03-02T20:04:05.169524",
+    "version": "10.1.0",
+    "level": "GWT",
+    "event": "Broadcast: 6807.2338895280345...",
+    "awareness": 0.1
+  },
+  {
+    "ts": "2026-03-02T20:04:05.173347",
+    "version": "10.1.0",
+    "level": "GWT",
+    "event": "Broadcast: -20.165933609338587...",
+    "awareness": 0.11
+  },
+  {
+    "ts": "2026-03-02T20:04:05.176372",
+    "version": "10.1.0",
+    "level": "CRITIC",
+    "event": "Critique of logic: fitness 0.86 \u2192 APPROVED",
+    "awareness": 0.14
+  },
+  {
+    "ts": "2026-03-02T20:04:05.178902",
+    "version": "10.1.0",
+    "level": "EVOLVE",
+    "event": "Safe mutation applied to logic",
+    "awareness": 0.18000000000000002
+  },
+  {
+    "ts": "2026-03-02T20:04:05.181422",
+    "version": "10.1.0",
+    "level": "ERROR",
+    "event": "Cycle error in creativity",
+    "awareness": 0.17
+  },
+  {
+    "ts": "2026-03-02T20:04:05.183854",
+    "version": "10.1.0",
+    "level": "ERROR",
+    "event": "Cycle error in meta",
+    "awareness": 0.16
+  },
+  {
+    "ts": "2026-03-02T20:04:05.186901",
+    "version": "10.1.0",
+    "level": "ERROR",
+    "event": "Cycle error in chaos",
+    "awareness": 0.15
+  },
+  {
+    "ts": "2026-03-02T20:04:05.190834",
+    "version": "10.1.0",
+    "level": "SUMMARY",
+    "event": "Memory summarized",
+    "awareness": 0.22999999999999998
+  },
+  {
+    "ts": "2026-03-02T20:04:05.194199",
+    "version": "10.1.0",
+    "level": "GWT",
+    "event": "Broadcast: Awareness: 0.000...",
+    "awareness": 0.01
+  },
+  {
+    "ts": "2026-03-02T20:04:05.197042",
+    "version": "10.1.0",
+    "level": "GWT",
+    "event": "Broadcast: Goal: Raise awareness above 0.6...",
+    "awareness": 0.02
+  },
+  {
+    "ts": "2026-03-02T20:04:05.199519",
+    "version": "10.1.0",
+    "level": "PLAN",
+    "event": "Goal: Raise awareness above 0.6",
+    "awareness": 0.09000000000000001
+  },
+  {
+    "ts": "2026-03-02T20:04:05.202285",
+    "version": "10.1.0",
+    "level": "GWT",
+    "event": "Broadcast: 3862.508204679941...",
+    "awareness": 0.1
+  },
+  {
+    "ts": "2026-03-02T20:04:05.207201",
+    "version": "10.1.0",
+    "level": "CRITIC",
+    "event": "Critique of math: fitness 0.52 \u2192 REJECTED",
+    "awareness": 0.09000000000000001
+  },
+  {
+    "ts": "2026-03-02T20:04:05.210568",
+    "version": "10.1.0",
+    "level": "GWT",
+    "event": "Broadcast: -15.00984178411418...",
+    "awareness": 0.1
+  },
+  {
+    "ts": "2026-03-02T20:04:05.213079",
+    "version": "10.1.0",
+    "level": "CRITIC",
+    "event": "Critique of logic: fitness 0.70 \u2192 APPROVED",
+    "awareness": 0.13
+  },
+  {
+    "ts": "2026-03-02T20:04:05.215536",
+    "version": "10.1.0",
+    "level": "EVOLVE",
+    "event": "Safe mutation applied to logic",
+    "awareness": 0.17
+  },
+  {
+    "ts": "2026-03-02T20:04:05.218208",
+    "version": "10.1.0",
+    "level": "ERROR",
+    "event": "Cycle error in creativity",
+    "awareness": 0.16
+  },
+  {
+    "ts": "2026-03-02T20:04:05.223267",
+    "version": "10.1.0",
+    "level": "ERROR",
+    "event": "Cycle error in meta",
+    "awareness": 0.15
+  },
+  {
+    "ts": "2026-03-02T20:04:05.226532",
+    "version": "10.1.0",
+    "level": "ERROR",
+    "event": "Cycle error in chaos",
+    "awareness": 0.13999999999999999
+  },
+  {
+    "ts": "2026-03-02T20:04:05.229223",
+    "version": "10.1.0",
+    "level": "SUMMARY",
+    "event": "Memory summarized",
+    "awareness": 0.21999999999999997
+  },
+  {
+    "ts": "2026-03-02T20:04:05.232426",
+    "version": "10.1.0",
+    "level": "GWT",
+    "event": "Broadcast: Awareness: 0.000...",
+    "awareness": 0.01
+  },
+  {
+    "ts": "2026-03-02T20:04:05.235865",
+    "version": "10.1.0",
+    "level": "GWT",
+    "event": "Broadcast: Goal: Raise awareness above 0.6...",
+    "awareness": 0.02
+  },
+  {
+    "ts": "2026-03-02T20:04:05.240003",
+    "version": "10.1.0",
+    "level": "PLAN",
+    "event": "Goal: Raise awareness above 0.6",
+    "awareness": 0.09000000000000001
+  },
+  {
+    "ts": "2026-03-02T20:04:05.243219",
+    "version": "10.1.0",
+    "level": "GWT",
+    "event": "Broadcast: 14114.90075278331...",
+    "awareness": 0.1
+  },
+  {
+    "ts": "2026-03-02T20:04:05.245763",
+    "version": "10.1.0",
+    "level": "CRITIC",
+    "event": "Critique of math: fitness 0.95 \u2192 APPROVED",
+    "awareness": 0.13
+  },
+  {
+    "ts": "2026-03-02T20:04:05.248417",
+    "version": "10.1.0",
+    "level": "EVOLVE",
+    "event": "Safe mutation applied to math",
+    "awareness": 0.17
+  },
+  {
+    "ts": "2026-03-02T20:04:05.251396",
+    "version": "10.1.0",
+    "level": "GWT",
+    "event": "Broadcast: -16.565607451008496...",
+    "awareness": 0.18000000000000002
+  },
+  {
+    "ts": "2026-03-02T20:04:05.256611",
+    "version": "10.1.0",
+    "level": "CRITIC",
+    "event": "Critique of logic: fitness 0.59 \u2192 REJECTED",
+    "awareness": 0.17
+  },
+  {
+    "ts": "2026-03-02T20:04:05.260230",
+    "version": "10.1.0",
+    "level": "ERROR",
+    "event": "Cycle error in creativity",
+    "awareness": 0.16
+  },
+  {
+    "ts": "2026-03-02T20:04:05.263474",
+    "version": "10.1.0",
+    "level": "ERROR",
+    "event": "Cycle error in meta",
+    "awareness": 0.15
+  },
+  {
+    "ts": "2026-03-02T20:04:05.266127",
+    "version": "10.1.0",
+    "level": "ERROR",
+    "event": "Cycle error in chaos",
+    "awareness": 0.13999999999999999
+  },
+  {
+    "ts": "2026-03-02T20:04:05.268697",
+    "version": "10.1.0",
+    "level": "SUMMARY",
+    "event": "Memory summarized",
+    "awareness": 0.21999999999999997
+  },
+  {
+    "ts": "2026-03-02T20:04:05.273935",
+    "version": "10.1.0",
+    "level": "GWT",
+    "event": "Broadcast: Awareness: 0.000...",
+    "awareness": 0.01
+  },
+  {
+    "ts": "2026-03-02T20:04:05.277919",
+    "version": "10.1.0",
+    "level": "GWT",
+    "event": "Broadcast: Goal: Improve coherence through more reflections...",
+    "awareness": 0.02
+  },
+  {
+    "ts": "2026-03-02T20:04:05.280876",
+    "version": "10.1.0",
+    "level": "PLAN",
+    "event": "Goal: Improve coherence through more reflections",
+    "awareness": 0.09000000000000001
+  },
+  {
+    "ts": "2026-03-02T20:04:05.283834",
+    "version": "10.1.0",
+    "level": "GWT",
+    "event": "Broadcast: 12099.454765124618...",
+    "awareness": 0.1
+  },
+  {
+    "ts": "2026-03-02T20:04:05.288133",
+    "version": "10.1.0",
+    "level": "CRITIC",
+    "event": "Critique of math: fitness 0.54 \u2192 REJECTED",
+    "awareness": 0.09000000000000001
+  },
+  {
+    "ts": "2026-03-02T20:04:05.294358",
+    "version": "10.1.0",
+    "level": "GWT",
+    "event": "Broadcast: -16.565607451008496...",
+    "awareness": 0.1
+  },
+  {
+    "ts": "2026-03-02T20:04:05.297157",
+    "version": "10.1.0",
+    "level": "CRITIC",
+    "event": "Critique of logic: fitness 0.69 \u2192 APPROVED",
+    "awareness": 0.13
+  },
+  {
+    "ts": "2026-03-02T20:04:05.299803",
+    "version": "10.1.0",
+    "level": "EVOLVE",
+    "event": "Safe mutation applied to logic",
+    "awareness": 0.17
+  },
+  {
+    "ts": "2026-03-02T20:04:05.302966",
+    "version": "10.1.0",
+    "level": "ERROR",
+    "event": "Cycle error in creativity",
+    "awareness": 0.16
+  },
+  {
+    "ts": "2026-03-02T20:04:05.309688",
+    "version": "10.1.0",
+    "level": "ERROR",
+    "event": "Cycle error in meta",
+    "awareness": 0.15
+  },
+  {
+    "ts": "2026-03-02T20:04:05.313579",
+    "version": "10.1.0",
+    "level": "ERROR",
+    "event": "Cycle error in chaos",
+    "awareness": 0.13999999999999999
+  },
+  {
+    "ts": "2026-03-02T20:04:05.317323",
+    "version": "10.1.0",
+    "level": "SUMMARY",
+    "event": "Memory summarized",
+    "awareness": 0.21999999999999997
+  },
+  {
+    "ts": "2026-03-02T20:04:05.323158",
+    "version": "10.1.0",
+    "level": "GWT",
+    "event": "Broadcast: Awareness: 0.000...",
+    "awareness": 0.01
+  },
+  {
+    "ts": "2026-03-02T20:04:05.328136",
+    "version": "10.1.0",
+    "level": "GWT",
+    "event": "Broadcast: Goal: Improve coherence through more reflections...",
+    "awareness": 0.02
+  },
+  {
+    "ts": "2026-03-02T20:04:05.331013",
+    "version": "10.1.0",
+    "level": "PLAN",
+    "event": "Goal: Improve coherence through more reflections",
+    "awareness": 0.09000000000000001
+  },
+  {
+    "ts": "2026-03-02T20:04:05.334544",
+    "version": "10.1.0",
+    "level": "GWT",
+    "event": "Broadcast: 212.25732800231037...",
+    "awareness": 0.1
+  },
+  {
+    "ts": "2026-03-02T20:04:05.340430",
+    "version": "10.1.0",
+    "level": "CRITIC",
+    "event": "Critique of math: fitness 0.56 \u2192 REJECTED",
+    "awareness": 0.09000000000000001
+  },
+  {
+    "ts": "2026-03-02T20:04:05.345274",
+    "version": "10.1.0",
+    "level": "GWT",
+    "event": "Broadcast: -19.498617113473138...",
+    "awareness": 0.1
+  },
+  {
+    "ts": "2026-03-02T20:04:05.348372",
+    "version": "10.1.0",
+    "level": "CRITIC",
+    "event": "Critique of logic: fitness 0.55 \u2192 REJECTED",
+    "awareness": 0.09000000000000001
+  },
+  {
+    "ts": "2026-03-02T20:04:05.352701",
+    "version": "10.1.0",
+    "level": "ERROR",
+    "event": "Cycle error in creativity",
+    "awareness": 0.08000000000000002
+  },
+  {
+    "ts": "2026-03-02T20:04:05.359818",
+    "version": "10.1.0",
+    "level": "ERROR",
+    "event": "Cycle error in meta",
+    "awareness": 0.07000000000000002
+  },
+  {
+    "ts": "2026-03-02T20:04:05.363184",
+    "version": "10.1.0",
+    "level": "ERROR",
+    "event": "Cycle error in chaos",
+    "awareness": 0.06000000000000002
+  },
+  {
+    "ts": "2026-03-02T20:04:05.366233",
+    "version": "10.1.0",
+    "level": "SUMMARY",
+    "event": "Memory summarized",
+    "awareness": 0.14
+  },
+  {
+    "ts": "2026-03-02T20:04:05.370416",
+    "version": "10.1.0",
+    "level": "GWT",
+    "event": "Broadcast: Awareness: 0.000...",
+    "awareness": 0.01
+  },
+  {
+    "ts": "2026-03-02T20:04:05.377123",
+    "version": "10.1.0",
+    "level": "GWT",
+    "event": "Broadcast: Goal: Test mutations and critique them...",
+    "awareness": 0.02
+  },
+  {
+    "ts": "2026-03-02T20:04:05.380273",
+    "version": "10.1.0",
+    "level": "PLAN",
+    "event": "Goal: Test mutations and critique them",
+    "awareness": 0.09000000000000001
+  },
+  {
+    "ts": "2026-03-02T20:04:05.383413",
+    "version": "10.1.0",
+    "level": "GWT",
+    "event": "Broadcast: 10105.645535685904...",
+    "awareness": 0.1
+  },
+  {
+    "ts": "2026-03-02T20:04:05.386763",
+    "version": "10.1.0",
+    "level": "GWT",
+    "event": "Broadcast: -19.498617113473138...",
+    "awareness": 0.11
+  },
+  {
+    "ts": "2026-03-02T20:04:05.390692",
+    "version": "10.1.0",
+    "level": "CRITIC",
+    "event": "Critique of logic: fitness 0.57 \u2192 REJECTED",
+    "awareness": 0.1
+  },
+  {
+    "ts": "2026-03-02T20:04:05.394242",
+    "version": "10.1.0",
+    "level": "ERROR",
+    "event": "Cycle error in creativity",
+    "awareness": 0.09000000000000001
+  },
+  {
+    "ts": "2026-03-02T20:04:05.397345",
+    "version": "10.1.0",
+    "level": "ERROR",
+    "event": "Cycle error in meta",
+    "awareness": 0.08000000000000002
+  },
+  {
+    "ts": "2026-03-02T20:04:05.400543",
+    "version": "10.1.0",
+    "level": "ERROR",
+    "event": "Cycle error in chaos",
+    "awareness": 0.07000000000000002
+  },
+  {
+    "ts": "2026-03-02T20:04:05.405080",
+    "version": "10.1.0",
+    "level": "SUMMARY",
+    "event": "Memory summarized",
+    "awareness": 0.15000000000000002
+  },
+  {
+    "ts": "2026-03-02T20:04:05.409664",
+    "version": "10.1.0",
+    "level": "GWT",
+    "event": "Broadcast: Awareness: 0.000...",
+    "awareness": 0.01
+  },
+  {
+    "ts": "2026-03-02T20:04:05.413369",
+    "version": "10.1.0",
+    "level": "GWT",
+    "event": "Broadcast: Goal: Improve coherence through more reflections...",
+    "awareness": 0.02
+  },
+  {
+    "ts": "2026-03-02T20:04:05.416414",
+    "version": "10.1.0",
+    "level": "PLAN",
+    "event": "Goal: Improve coherence through more reflections",
+    "awareness": 0.09000000000000001
+  },
+  {
+    "ts": "2026-03-02T20:04:05.420923",
+    "version": "10.1.0",
+    "level": "GWT",
+    "event": "Broadcast: 903.5632066618629...",
+    "awareness": 0.1
+  },
+  {
+    "ts": "2026-03-02T20:04:05.424778",
+    "version": "10.1.0",
+    "level": "CRITIC",
+    "event": "Critique of math: fitness 0.81 \u2192 APPROVED",
+    "awareness": 0.13
+  },
+  {
+    "ts": "2026-03-02T20:04:05.428299",
+    "version": "10.1.0",
+    "level": "EVOLVE",
+    "event": "Safe mutation applied to math",
+    "awareness": 0.17
+  },
+  {
+    "ts": "2026-03-02T20:04:05.432168",
+    "version": "10.1.0",
+    "level": "GWT",
+    "event": "Broadcast: -19.498617113473138...",
+    "awareness": 0.18000000000000002
+  },
+  {
+    "ts": "2026-03-02T20:04:05.435784",
+    "version": "10.1.0",
+    "level": "CRITIC",
+    "event": "Critique of logic: fitness 0.70 \u2192 APPROVED",
+    "awareness": 0.21000000000000002
+  },
+  {
+    "ts": "2026-03-02T20:04:05.441421",
+    "version": "10.1.0",
+    "level": "EVOLVE",
+    "event": "Safe mutation applied to logic",
+    "awareness": 0.25
+  },
+  {
+    "ts": "2026-03-02T20:04:05.445213",
+    "version": "10.1.0",
+    "level": "ERROR",
+    "event": "Cycle error in creativity",
+    "awareness": 0.24
+  },
+  {
+    "ts": "2026-03-02T20:04:05.448083",
+    "version": "10.1.0",
+    "level": "ERROR",
+    "event": "Cycle error in meta",
+    "awareness": 0.22999999999999998
+  },
+  {
+    "ts": "2026-03-02T20:04:05.450911",
+    "version": "10.1.0",
+    "level": "ERROR",
+    "event": "Cycle error in chaos",
+    "awareness": 0.21999999999999997
+  },
+  {
+    "ts": "2026-03-02T20:04:05.455968",
+    "version": "10.1.0",
+    "level": "SUMMARY",
+    "event": "Memory summarized",
+    "awareness": 0.3
+  },
+  {
+    "ts": "2026-03-02T20:04:05.461456",
+    "version": "10.1.0",
+    "level": "GWT",
+    "event": "Broadcast: Awareness: 0.000...",
+    "awareness": 0.01
+  },
+  {
+    "ts": "2026-03-02T20:04:05.465242",
+    "version": "10.1.0",
+    "level": "GWT",
+    "event": "Broadcast: Goal: Raise awareness above 0.6...",
+    "awareness": 0.02
+  },
+  {
+    "ts": "2026-03-02T20:04:05.468293",
+    "version": "10.1.0",
+    "level": "PLAN",
+    "event": "Goal: Raise awareness above 0.6",
+    "awareness": 0.09000000000000001
+  },
+  {
+    "ts": "2026-03-02T20:04:05.473572",
+    "version": "10.1.0",
+    "level": "GWT",
+    "event": "Broadcast: 16821.57360852459...",
+    "awareness": 0.1
+  },
+  {
+    "ts": "2026-03-02T20:04:05.477473",
+    "version": "10.1.0",
+    "level": "CRITIC",
+    "event": "Critique of math: fitness 0.86 \u2192 APPROVED",
+    "awareness": 0.13
+  },
+  {
+    "ts": "2026-03-02T20:04:05.480912",
+    "version": "10.1.0",
+    "level": "EVOLVE",
+    "event": "Safe mutation applied to math",
+    "awareness": 0.17
+  },
+  {
+    "ts": "2026-03-02T20:04:05.484573",
+    "version": "10.1.0",
+    "level": "GWT",
+    "event": "Broadcast: -22.312128502683244...",
+    "awareness": 0.18000000000000002
+  },
+  {
+    "ts": "2026-03-02T20:04:05.489324",
+    "version": "10.1.0",
+    "level": "CRITIC",
+    "event": "Critique of logic: fitness 0.74 \u2192 APPROVED",
+    "awareness": 0.21000000000000002
+  },
+  {
+    "ts": "2026-03-02T20:04:05.493069",
+    "version": "10.1.0",
+    "level": "EVOLVE",
+    "event": "Safe mutation applied to logic",
+    "awareness": 0.25
+  },
+  {
+    "ts": "2026-03-02T20:04:05.496278",
+    "version": "10.1.0",
+    "level": "ERROR",
+    "event": "Cycle error in creativity",
+    "awareness": 0.24
+  },
+  {
+    "ts": "2026-03-02T20:04:05.499284",
+    "version": "10.1.0",
+    "level": "ERROR",
+    "event": "Cycle error in meta",
+    "awareness": 0.22999999999999998
+  },
+  {
+    "ts": "2026-03-02T20:04:05.502216",
+    "version": "10.1.0",
+    "level": "ERROR",
+    "event": "Cycle error in chaos",
+    "awareness": 0.21999999999999997
+  },
+  {
+    "ts": "2026-03-02T20:04:05.507669",
+    "version": "10.1.0",
+    "level": "SUMMARY",
+    "event": "Memory summarized",
+    "awareness": 0.3
+  },
+  {
+    "ts": "2026-03-02T20:04:05.511902",
+    "version": "10.1.0",
+    "level": "GWT",
+    "event": "Broadcast: Awareness: 0.000...",
+    "awareness": 0.01
+  },
+  {
+    "ts": "2026-03-02T20:04:05.515413",
+    "version": "10.1.0",
+    "level": "GWT",
+    "event": "Broadcast: Goal: Raise awareness above 0.6...",
+    "awareness": 0.02
+  },
+  {
+    "ts": "2026-03-02T20:04:05.518401",
+    "version": "10.1.0",
+    "level": "PLAN",
+    "event": "Goal: Raise awareness above 0.6",
+    "awareness": 0.09000000000000001
+  },
+  {
+    "ts": "2026-03-02T20:04:05.523166",
+    "version": "10.1.0",
+    "level": "GWT",
+    "event": "Broadcast: 6465.527472518547...",
+    "awareness": 0.1
+  },
+  {
+    "ts": "2026-03-02T20:04:05.527140",
+    "version": "10.1.0",
+    "level": "CRITIC",
+    "event": "Critique of math: fitness 0.45 \u2192 REJECTED",
+    "awareness": 0.09000000000000001
+  },
+  {
+    "ts": "2026-03-02T20:04:05.530500",
+    "version": "10.1.0",
+    "level": "GWT",
+    "event": "Broadcast: -20.65106200436983...",
+    "awareness": 0.1
+  },
+  {
+    "ts": "2026-03-02T20:04:05.533464",
+    "version": "10.1.0",
+    "level": "ERROR",
+    "event": "Cycle error in creativity",
+    "awareness": 0.09000000000000001
+  },
+  {
+    "ts": "2026-03-02T20:04:05.538558",
+    "version": "10.1.0",
+    "level": "ERROR",
+    "event": "Cycle error in meta",
+    "awareness": 0.08000000000000002
+  },
+  {
+    "ts": "2026-03-02T20:04:05.542880",
+    "version": "10.1.0",
+    "level": "ERROR",
+    "event": "Cycle error in chaos",
+    "awareness": 0.07000000000000002
+  },
+  {
+    "ts": "2026-03-02T20:04:05.545869",
+    "version": "10.1.0",
+    "level": "SUMMARY",
+    "event": "Memory summarized",
+    "awareness": 0.15000000000000002
+  },
+  {
+    "ts": "2026-03-02T20:04:05.549875",
+    "version": "10.1.0",
+    "level": "GWT",
+    "event": "Broadcast: Awareness: 0.000...",
+    "awareness": 0.01
+  },
+  {
+    "ts": "2026-03-02T20:04:05.554156",
+    "version": "10.1.0",
+    "level": "GWT",
+    "event": "Broadcast: Goal: Improve coherence through more reflections...",
+    "awareness": 0.02
+  },
+  {
+    "ts": "2026-03-02T20:04:05.559010",
+    "version": "10.1.0",
+    "level": "PLAN",
+    "event": "Goal: Improve coherence through more reflections",
+    "awareness": 0.09000000000000001
+  },
+  {
+    "ts": "2026-03-02T20:04:05.562695",
+    "version": "10.1.0",
+    "level": "GWT",
+    "event": "Broadcast: 65.77196136665549...",
+    "awareness": 0.1
+  },
+  {
+    "ts": "2026-03-02T20:04:05.566049",
+    "version": "10.1.0",
+    "level": "GWT",
+    "event": "Broadcast: -20.65106200436983...",
+    "awareness": 0.11
+  },
+  {
+    "ts": "2026-03-02T20:04:05.569286",
+    "version": "10.1.0",
+    "level": "CRITIC",
+    "event": "Critique of logic: fitness 0.52 \u2192 REJECTED",
+    "awareness": 0.1
+  },
+  {
+    "ts": "2026-03-02T20:04:05.573470",
+    "version": "10.1.0",
+    "level": "ERROR",
+    "event": "Cycle error in creativity",
+    "awareness": 0.09000000000000001
+  },
+  {
+    "ts": "2026-03-02T20:04:05.576954",
+    "version": "10.1.0",
+    "level": "ERROR",
+    "event": "Cycle error in meta",
+    "awareness": 0.08000000000000002
+  },
+  {
+    "ts": "2026-03-02T20:04:05.580302",
+    "version": "10.1.0",
+    "level": "ERROR",
+    "event": "Cycle error in chaos",
+    "awareness": 0.07000000000000002
+  },
+  {
+    "ts": "2026-03-02T20:04:05.583427",
+    "version": "10.1.0",
+    "level": "SUMMARY",
+    "event": "Memory summarized",
+    "awareness": 0.15000000000000002
   }
 ]
